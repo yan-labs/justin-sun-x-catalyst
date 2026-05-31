@@ -1,4 +1,5 @@
-Total posts: 21
-Distinct $tickers: 0
+Total posts: 24
+Distinct $tickers: 1
 
 ticker  mentions  first_seen  last_seen
+TRX           1   2026-05-31  2026-05-31
