@@ -1,0 +1,12 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Markets / Crypto",
+      "description": "Justin Sun's (@justinsuntron) X-post catalyst lens for TRON, Sun-linked tokens, crypto equities, and related US names. Decision-support only.",
+      "skills": ["justin-sun-x-catalyst"]
+    }
+  ]
+}
+
