@@ -1,4 +1,6 @@
+```bash
 npx skills add yan-labs/justin-sun-x-catalyst
+```
 
 <p align="center">
   <a href="https://x.com/justinsuntron">
