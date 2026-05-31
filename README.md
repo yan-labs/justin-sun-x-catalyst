@@ -1,5 +1,11 @@
 npx skills add yan-labs/justin-sun-x-catalyst
 
+<p align="center">
+  <a href="https://x.com/justinsuntron">
+    <img src="assets/justin-sun-avatar.jpg" alt="Justin Sun (@justinsuntron)" width="112" height="112">
+  </a>
+</p>
+
 # justin-sun-x-catalyst
 
 [![skills.sh](https://skills.sh/b/yan-labs/justin-sun-x-catalyst)](https://skills.sh/yan-labs/justin-sun-x-catalyst)
