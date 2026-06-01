@@ -1,5 +1,36 @@
 [
   {
+    "id": "2061411551429710275",
+    "text": "Let's see how M3 performs on @BAI_AGI !",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 27,
+      "retweets": 3,
+      "replies": 19,
+      "quotes": 0,
+      "views": 6698,
+      "bookmarks": 0
+    },
+    "createdAt": "Mon Jun 01 11:36:27 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2061411551429710275",
+    "createdAtISO": "2026-06-01T11:36:27+00:00",
+    "createdAtLocal": "2026-06-01 19:36"
+  },
+  {
     "id": "2061382126675849227",
     "text": "Minimax on https://t.co/nMjQcILxG5",
     "author": {
