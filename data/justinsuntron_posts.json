@@ -1,5 +1,67 @@
 [
   {
+    "id": "2061762360449351849",
+    "text": "Payments are where crypto becomes real.\n\n$213M monthly crypto card volume on TRON shows the rails are already being used.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 3,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 138,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 02 10:50:27 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2061762360449351849",
+    "createdAtISO": "2026-06-02T10:50:27+00:00",
+    "createdAtLocal": "2026-06-02 18:50"
+  },
+  {
+    "id": "2061754412696273139",
+    "text": "RT @MiniMax_AI: Agents need more than just brains, they need a way to pay, trade, and actually use services.   \n\nThat's why we are excited…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 8,
+      "replies": 0,
+      "quotes": 0,
+      "views": 2,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 02 10:18:52 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2061754412696273139",
+    "createdAtISO": "2026-06-02T10:18:52+00:00",
+    "createdAtLocal": "2026-06-02 18:18"
+  },
+  {
     "id": "2061723986745311290",
     "text": "Keep going",
     "author": {
