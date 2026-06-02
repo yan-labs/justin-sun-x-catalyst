@@ -1,5 +1,98 @@
 [
   {
+    "id": "2061857828462301197",
+    "text": "RT @Securitize: Securitize is expanding access to Hamilton Lane’s Senior Credit Opportunities Fund (HLSCOPE) with its launch on TRON.\n\nThis…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 15,
+      "replies": 0,
+      "quotes": 0,
+      "views": null,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 02 17:09:48 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2061857828462301197",
+    "createdAtISO": "2026-06-02T17:09:48+00:00",
+    "createdAtLocal": "2026-06-03 01:09"
+  },
+  {
+    "id": "2061857775333085379",
+    "text": "RT @grahamfergs: RWAs on @trondao! Powered by @Securitize.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 7,
+      "replies": 0,
+      "quotes": 0,
+      "views": 2,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 02 17:09:35 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2061857775333085379",
+    "createdAtISO": "2026-06-02T17:09:35+00:00",
+    "createdAtLocal": "2026-06-03 01:09"
+  },
+  {
+    "id": "2061853658908913849",
+    "text": "Tether wallet is now live on TRON @trondao !",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 63,
+      "retweets": 9,
+      "replies": 31,
+      "quotes": 1,
+      "views": 8390,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Jun 02 16:53:14 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2061853658908913849",
+    "createdAtISO": "2026-06-02T16:53:14+00:00",
+    "createdAtLocal": "2026-06-03 00:53"
+  },
+  {
     "id": "2061762360449351849",
     "text": "Payments are where crypto becomes real.\n\n$213M monthly crypto card volume on TRON shows the rails are already being used.",
     "author": {
