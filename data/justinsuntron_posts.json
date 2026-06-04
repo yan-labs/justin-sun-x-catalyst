@@ -1,5 +1,98 @@
 [
   {
+    "id": "2062432563986366870",
+    "text": "全线亮眼",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 14,
+      "retweets": 1,
+      "replies": 23,
+      "quotes": 1,
+      "views": 3441,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jun 04 07:13:36 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2062432563986366870",
+    "createdAtISO": "2026-06-04T07:13:36+00:00",
+    "createdAtLocal": "2026-06-04 15:13"
+  },
+  {
+    "id": "2062431313731457093",
+    "text": "Keep focus",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 40,
+      "retweets": 2,
+      "replies": 23,
+      "quotes": 0,
+      "views": 5602,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jun 04 07:08:37 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2062431313731457093",
+    "createdAtISO": "2026-06-04T07:08:37+00:00",
+    "createdAtLocal": "2026-06-04 15:08"
+  },
+  {
+    "id": "2062429065588707716",
+    "text": "RT @BAI_AGI: ⚠️ Reminder for all https://t.co/JerjymcZyf API users:\n\nLegacy API Keys will be deprecated on June 22, 2026, at 23:59 SGT.\n\nIf…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 3,
+      "replies": 0,
+      "quotes": 0,
+      "views": null,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jun 04 06:59:41 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2062429065588707716",
+    "createdAtISO": "2026-06-04T06:59:41+00:00",
+    "createdAtLocal": "2026-06-04 14:59"
+  },
+  {
     "id": "2062363361220948113",
     "text": "$90B+ stablecoins on TRON. Keep on building. 💪",
     "author": {
