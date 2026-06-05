@@ -1,5 +1,36 @@
 [
   {
+    "id": "2062819986557800857",
+    "text": "TRON’s focus has always been simple: build rails people can use every day, everywhere.\n\nAppreciate the support.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 38,
+      "retweets": 5,
+      "replies": 22,
+      "quotes": 2,
+      "views": 7047,
+      "bookmarks": 0
+    },
+    "createdAt": "Fri Jun 05 08:53:04 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2062819986557800857",
+    "createdAtISO": "2026-06-05T08:53:04+00:00",
+    "createdAtLocal": "2026-06-05 16:53"
+  },
+  {
     "id": "2062779237975900622",
     "text": "Good to see @T3_FCU expanding transparency around this work. $450M+ frozen since launch.",
     "author": {
