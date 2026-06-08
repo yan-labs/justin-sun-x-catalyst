@@ -78,6 +78,17 @@ Source links for refreshing facts:
 - First read: listed asset or affected market.
 - Second read: TRX only if Sun/TRON support is explicit.
 
+## AI and payment infrastructure
+
+**B.AI**
+- Triggers: B.AI, BAI, AI Agent payment, borderless payment, AI financial autonomy,
+  BAI_AGI, anonymous AI model access.
+- First read: B.AI native token if listed and liquid.
+- Second read: TRX if B.AI operates on TRON rails and Sun confirms the integration.
+- Caveat: Justin Sun promotional posts for ecosystem partners have low durability without
+  independent usage data, liquidity, or an on-chain TRX connection. Watch for B.AI token
+  listing before sizing. First noted: 2026-06-08.
+
 ## WBTC and wrapped Bitcoin
 
 **WBTC / BitGo / BiT Global**
