@@ -1,5 +1,46 @@
 [
   {
+    "id": "2064337343688147070",
+    "text": "With better data access, more people can see why TRON has become one of the main networks for stablecoin activity.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 94,
+      "retweets": 11,
+      "replies": 50,
+      "quotes": 4,
+      "views": 18240,
+      "bookmarks": 3
+    },
+    "createdAt": "Tue Jun 09 13:22:30 +0000 2026",
+    "media": [],
+    "urls": [
+      "https://x.com/trondao/status/2064054132323852481"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2064337343688147070",
+    "createdAtISO": "2026-06-09T13:22:30+00:00",
+    "createdAtLocal": "2026-06-09 21:22",
+    "quotedTweet": {
+      "id": "2064054132323852481",
+      "text": "The #TRON blockchain is optimized for low-cost, high-throughput transfers, making it a primary settlement layer for USDT activity across global markets.\n\nWith @Dune's MCP server integration, natural language access to on-chain data makes it easier for users, analysts, and...",
+      "author": {
+        "screenName": "trondao",
+        "name": "TRON DAO"
+      }
+    }
+  },
+  {
     "id": "2064252868270665917",
     "text": "Keep going",
     "author": {
