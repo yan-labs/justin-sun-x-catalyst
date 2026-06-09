@@ -30,14 +30,7 @@
     "isReply": false,
     "conversationId": "2064252868270665917",
     "createdAtISO": "2026-06-09T07:46:50+00:00",
-    "createdAtLocal": "2026-06-09 15:46",
-    "quotedTweet": {
-      "id": "2064164000263450691",
-      "text": "Tron Inc. (NASDAQ: TRON) acquired 152,821 TRX tokens today at an average price of $0.3272 further increasing its TRX treasury holdings to more than 699.7 million TRX in total.",
-      "author": {
-        "screenName": "TRON_INC"
-      }
-    }
+    "createdAtLocal": "2026-06-09 15:46"
   },
   {
     "id": "2064197275119996934",
@@ -70,14 +63,7 @@
     "isReply": false,
     "conversationId": "2064197275119996934",
     "createdAtISO": "2026-06-09T04:05:55+00:00",
-    "createdAtLocal": "2026-06-09 12:05",
-    "quotedTweet": {
-      "id": "2062619317427187935",
-      "text": "Q1 2026 State of Blockchains is live. 21 networks, five core metrics, one clear theme: even in a down quarter, a few networks grew fees, stablecoins, and RWAs.",
-      "author": {
-        "screenName": "MessariCrypto"
-      }
-    }
+    "createdAtLocal": "2026-06-09 12:05"
   },
   {
     "id": "2063975900501467158",
@@ -90,12 +76,12 @@
       "verified": true
     },
     "metrics": {
-      "likes": 35,
-      "retweets": 1,
-      "replies": 19,
-      "quotes": 0,
-      "views": 10030,
-      "bookmarks": 0
+      "likes": 142,
+      "retweets": 10,
+      "replies": 63,
+      "quotes": 3,
+      "views": 46651,
+      "bookmarks": 2
     },
     "createdAt": "Mon Jun 08 13:26:16 +0000 2026",
     "media": [],
@@ -114,7 +100,7 @@
   },
   {
     "id": "2063975504819175630",
-    "text": "USDD在火币也可以当保证金啊！ https://t.co/nFbfPtJRoS",
+    "text": "USDD在火庁也可以当保证金啊！ https://t.co/nFbfPtJRoS",
     "author": {
       "id": "902839045356744704",
       "name": "H.E. Justin Sun 👨‍🚀 🌞",
@@ -147,7 +133,7 @@
   },
   {
     "id": "2063970582186820079",
-    "text": "火币机构服务全新升级，体验一下 https://t.co/ySyanJDyGe",
+    "text": "火庁机构服务全新升级，体验一下 https://t.co/ySyanJDyGe",
     "author": {
       "id": "902839045356744704",
       "name": "H.E. Justin Sun 👨‍🚀 🌞",
