@@ -1,5 +1,44 @@
 [
   {
+    "id": "2064384406446612750",
+    "text": "More access is how adoption scales. TRON's ecosystem keeps expanding globally.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 47,
+      "retweets": 6,
+      "replies": 29,
+      "quotes": 0,
+      "views": 9435,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 09 16:29:31 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2064384406446612750",
+    "createdAtISO": "2026-06-09T16:29:31+00:00",
+    "createdAtLocal": "2026-06-10 00:29",
+    "quotedTweet": {
+      "id": "2063365055102570774",
+      "text": "This past month, TRON continued expanding ecosystem access through integrations with platforms like @OKX.\n\nMore connectivity, more access, and more ways for users to interact with #TRON globally.",
+      "author": {
+        "screenName": "trondao",
+        "name": "TRON DAO"
+      }
+    }
+  },
+  {
     "id": "2064337343688147070",
     "text": "With better data access, more people can see why TRON has become one of the main networks for stablecoin activity.",
     "author": {
