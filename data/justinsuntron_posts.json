@@ -1,5 +1,44 @@
 [
   {
+    "id": "2064545559281865007",
+    "text": "Education is part of adoption. Digital assets need the next generation to understand both the technology and the responsibility behind it.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 37,
+      "retweets": 2,
+      "replies": 33,
+      "quotes": 2,
+      "views": 8592,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Jun 10 03:09:53 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2064545559281865007",
+    "createdAtISO": "2026-06-10T03:09:53+00:00",
+    "createdAtLocal": "2026-06-10 11:09",
+    "quotedTweet": {
+      "id": "2063001136081100934",
+      "text": "The Digital Sovereignty Alliance (DSA) announced the completion of the inaugural session of its new Digital Asset Case Study Course, an educational initiative designed to introduce students to the economic, technological, and policy questions shaping the digital asset economy.",
+      "author": {
+        "screenName": "DSAForg",
+        "name": "Digital Sovereignty Alliance (DSA)"
+      }
+    }
+  },
+  {
     "id": "2064384406446612750",
     "text": "More access is how adoption scales. TRON's ecosystem keeps expanding globally.",
     "author": {
