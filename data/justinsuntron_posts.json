@@ -1,5 +1,44 @@
 [
   {
+    "id": "2064628604773028165",
+    "text": "Claude Fable 5 现已上线http://B.AI \n\nAnthropic 最新发布的 Claude Fable 5 已由http://B.AI 技术团队第一时间完成接入，现已正式开放 API 调用。\n\n作为 Anthropic 迄今最强大的编码模型，Claude Fable 5 专为处理长周期、高不确定性的复杂任务而设计。",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 32,
+      "retweets": 3,
+      "replies": 31,
+      "quotes": 1,
+      "views": 6891,
+      "bookmarks": 4
+    },
+    "createdAt": "Wed Jun 10 08:39:52 +0000 2026",
+    "media": [],
+    "urls": ["http://B.AI"],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2064628604773028165",
+    "createdAtISO": "2026-06-10T08:39:52+00:00",
+    "createdAtLocal": "2026-06-10 16:39",
+    "quotedTweet": {
+      "id": "2064618291755384941",
+      "text": "📢 Claude Fable 5 现已上线 B.AI\n\nAnthropic 最新发布的 Claude Fable 5 已由 B.AI 技术团队第一时间完成接入，现已正式开放 API 调用。\n\n作为 Anthropic 迄今最强大的编码模型，Claude Fable 5 专为处理长周期、高不确定性的复杂任务而设计。",
+      "author": {
+        "screenName": "BAI_AGI",
+        "name": "B.AI"
+      }
+    }
+  },
+  {
     "id": "2064545559281865007",
     "text": "Education is part of adoption. Digital assets need the next generation to understand both the technology and the responsibility behind it.",
     "author": {
@@ -31,7 +70,7 @@
     "createdAtLocal": "2026-06-10 11:09",
     "quotedTweet": {
       "id": "2063001136081100934",
-      "text": "The Digital Sovereignty Alliance (DSA) announced the completion of the inaugural session of its new Digital Asset Case Study Course, an educational initiative designed to introduce students to the economic, technological, and policy questions shaping the digital asset economy.",
+      "text": "The Digital Sovereignty Alliance (DSA) announced the completion of the inaugural session of its new Digital Asset Case Study Course...",
       "author": {
         "screenName": "DSAForg",
         "name": "Digital Sovereignty Alliance (DSA)"
@@ -70,7 +109,7 @@
     "createdAtLocal": "2026-06-10 00:29",
     "quotedTweet": {
       "id": "2063365055102570774",
-      "text": "This past month, TRON continued expanding ecosystem access through integrations with platforms like @OKX.\n\nMore connectivity, more access, and more ways for users to interact with #TRON globally.",
+      "text": "This past month, TRON continued expanding ecosystem access through integrations with platforms like @OKX...",
       "author": {
         "screenName": "trondao",
         "name": "TRON DAO"
@@ -97,9 +136,7 @@
     },
     "createdAt": "Tue Jun 09 13:22:30 +0000 2026",
     "media": [],
-    "urls": [
-      "https://x.com/trondao/status/2064054132323852481"
-    ],
+    "urls": ["https://x.com/trondao/status/2064054132323852481"],
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "en",
@@ -111,7 +148,7 @@
     "createdAtLocal": "2026-06-09 21:22",
     "quotedTweet": {
       "id": "2064054132323852481",
-      "text": "The #TRON blockchain is optimized for low-cost, high-throughput transfers, making it a primary settlement layer for USDT activity across global markets.\n\nWith @Dune's MCP server integration, natural language access to on-chain data makes it easier for users, analysts, and...",
+      "text": "The #TRON blockchain is optimized for low-cost, high-throughput transfers...",
       "author": {
         "screenName": "trondao",
         "name": "TRON DAO"
@@ -138,9 +175,7 @@
     },
     "createdAt": "Tue Jun 09 07:46:50 +0000 2026",
     "media": [],
-    "urls": [
-      "https://x.com/TRON_INC/status/2064164000263450691"
-    ],
+    "urls": ["https://x.com/TRON_INC/status/2064164000263450691"],
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "en",
@@ -152,7 +187,7 @@
     "createdAtLocal": "2026-06-09 15:46",
     "quotedTweet": {
       "id": "2064164000263450691",
-      "text": "Tron Inc. (NASDAQ: TRON) acquired 152,821 TRX tokens today at an average price of $0.3272 further increasing its TRX treasury holdings to more than 699.7 million TRX in total. The company aims to further grow its Tron DAT holdings to enhance long term shareholder value.",
+      "text": "Tron Inc. (NASDAQ: TRON) acquired 152,821 TRX tokens today at an average price of $0.3272...",
       "author": {
         "screenName": "TRON_INC",
         "name": "Tron Inc."
@@ -179,9 +214,7 @@
     },
     "createdAt": "Tue Jun 09 04:05:55 +0000 2026",
     "media": [],
-    "urls": [
-      "https://x.com/MessariCrypto/status/2062619317427187935"
-    ],
+    "urls": ["https://x.com/MessariCrypto/status/2062619317427187935"],
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "en",
@@ -193,7 +226,7 @@
     "createdAtLocal": "2026-06-09 12:05",
     "quotedTweet": {
       "id": "2062619317427187935",
-      "text": "Q1 2026 State of Blockchains is live. 21 networks, five core metrics, one clear theme: even in a down quarter, a few networks grew fees, stablecoins, and RWAs.",
+      "text": "Q1 2026 State of Blockchains is live...",
       "author": {
         "screenName": "MessariCrypto",
         "name": "Messari"
@@ -220,9 +253,7 @@
     },
     "createdAt": "Mon Jun 08 13:26:16 +0000 2026",
     "media": [],
-    "urls": [
-      "https://twitter.com/0xMoon/status/2063968387626332322"
-    ],
+    "urls": ["https://twitter.com/0xMoon/status/2063968387626332322"],
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "zh",
@@ -253,9 +284,7 @@
     },
     "createdAt": "Mon Jun 08 13:24:41 +0000 2026",
     "media": [],
-    "urls": [
-      "https://twitter.com/HuobiGlobal/status/2062368752969429468"
-    ],
+    "urls": ["https://twitter.com/HuobiGlobal/status/2062368752969429468"],
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "zh",
@@ -286,9 +315,7 @@
     },
     "createdAt": "Mon Jun 08 13:05:08 +0000 2026",
     "media": [],
-    "urls": [
-      "https://twitter.com/HuobiGlobal/status/2063931541907279909"
-    ],
+    "urls": ["https://twitter.com/HuobiGlobal/status/2063931541907279909"],
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "zh",
@@ -319,9 +346,7 @@
     },
     "createdAt": "Mon Jun 08 12:21:40 +0000 2026",
     "media": [],
-    "urls": [
-      "https://x.com/sanmiastar/status/2062412400821694721"
-    ],
+    "urls": ["https://x.com/sanmiastar/status/2062412400821694721"],
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "en",
@@ -352,10 +377,7 @@
     },
     "createdAt": "Mon Jun 08 12:20:57 +0000 2026",
     "media": [],
-    "urls": [
-      "http://B.AI",
-      "https://x.com/BAI_AGI/status/2063885843450978724"
-    ],
+    "urls": ["http://B.AI", "https://x.com/BAI_AGI/status/2063885843450978724"],
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "en",
