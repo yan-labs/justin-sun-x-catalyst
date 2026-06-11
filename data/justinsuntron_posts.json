@@ -1,5 +1,34 @@
 [
   {
+    "id": "2064968436854517811",
+    "text": "RT @cloakmk: 天天看推特上FUD满天飞，结果一拉CMC数据，HTX近7天和整个5月的资金净流入全是全球第一，这就叫嘴上骂得凶，身体很诚实。\n\n币圈最大的韭菜思维就是拿情绪当指标，散户被几篇小作文吓得疯狂提币，大资金却在逆势沉淀。… https://t.co/NbS1vOXyJw",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {"likes": 0, "retweets": 3, "replies": 0, "quotes": 0, "views": null, "bookmarks": 0},
+    "createdAt": "Thu Jun 11 07:10:15 +0000 2026",
+    "createdAtISO": "2026-06-11T07:10:15+00:00",
+    "createdAtLocal": "2026-06-11 15:10",
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2064968436854517811",
+    "media": [],
+    "urls": ["https://t.co/NbS1vOXyJw"],
+    "retweetedTweet": {
+      "id": "2064628347108532433",
+      "text": "天天看推特上FUD满天飞，结果一拉CMC数据，HTX近7天和整个5月的资金净流入全是全球第一，这就叫嘴上骂得凶，身体很诚实。\n\n币圈最大的韭菜思维就是拿情绪当指标，散户被几篇小作文吓得疯狂提币，大资金却在逆势沉淀。",
+      "author": {"screenName": "cloakmk", "name": "子棋（重生版）"}
+    }
+  },
+  {
     "id": "2064915774737981528",
     "text": "Moving trillions starts with infrastructure people use every day. \n\nTRON just hit 14.13M daily transactions.",
     "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
