@@ -1,5 +1,36 @@
 [
   {
+    "id": "2065020546694439115",
+    "text": "386M accounts. Keep counting.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 0,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jun 11 10:37:19 +0000 2026",
+    "createdAtISO": "2026-06-11T10:37:19+00:00",
+    "createdAtLocal": "2026-06-11 18:37",
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2065020546694439115",
+    "media": [],
+    "urls": []
+  },
+  {
     "id": "2064999525958426835",
     "text": "https://t.co/nMjQcILxG5 网页端也已经正式上线",
     "author": {
@@ -13,103 +44,154 @@
     "createdAt": "Thu Jun 11 09:13:47 +0000 2026",
     "createdAtISO": "2026-06-11T09:13:47+00:00",
     "createdAtLocal": "2026-06-11 17:13",
-    "isRetweet": false,
-    "retweetedBy": null,
-    "lang": "zh",
-    "score": null,
-    "isQuote": true,
-    "isReply": false,
-    "conversationId": "2064999525958426835",
-    "media": [],
-    "urls": ["http://B.AI"],
-    "quotedTweet": {
-      "id": "2064980741365395917",
-      "text": "📢 Claude Fable 5 现已正式登陆 B.AI 网页端！继 API 率先接入之后，Claude Fable 5 现在也已全面开放 Web Chat 使用。打开网页对话端，即可直接体验 Anthropic 新一代高性能模型带来的强大能力。",
-      "author": {"screenName": "BAI_AGI", "name": "B.AI"}
-    }
+    "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": true, "isReply": false,
+    "conversationId": "2064999525958426835", "media": [], "urls": ["http://B.AI"],
+    "quotedTweet": {"id": "2064980741365395917", "text": "📢 Claude Fable 5 现已正式登陆 B.AI 网页端！继 API 率先接入之后，Claude Fable 5 现在也已全面开放 Web Chat 使用。打开网页对话端，即可直接体验 Anthropic 新一代高性能模型带来的强大能力。", "author": {"screenName": "BAI_AGI", "name": "B.AI"}}
   },
   {
     "id": "2064985640203358283",
     "text": "Keep going",
-    "author": {
-      "id": "902839045356744704",
-      "name": "H.E. Justin Sun 👨‍🚀 🌞",
-      "screenName": "justinsuntron",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
-      "verified": true
-    },
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
     "metrics": {"likes": 68, "retweets": 10, "replies": 35, "quotes": 0, "views": 14185, "bookmarks": 0},
-    "createdAt": "Thu Jun 11 08:18:36 +0000 2026",
-    "createdAtISO": "2026-06-11T08:18:36+00:00",
-    "createdAtLocal": "2026-06-11 16:18",
-    "isRetweet": false,
-    "retweetedBy": null,
-    "lang": "en",
-    "score": null,
-    "isQuote": true,
-    "isReply": false,
-    "conversationId": "2064985640203358283",
-    "media": [],
-    "urls": [],
-    "quotedTweet": {
-      "id": "2064906231727484999",
-      "text": "Tron Inc. (NASDAQ: TRON) acquired 154,608 TRX tokens today at an average price of $0.3234 further increasing its TRX treasury holdings to more than 700.0 million TRX in total. The company aims to further grow its Tron DAT holdings to enhance long term shareholder value. For live",
-      "author": {"screenName": "TRON_INC", "name": "Tron Inc."}
-    }
+    "createdAt": "Thu Jun 11 08:18:36 +0000 2026", "createdAtISO": "2026-06-11T08:18:36+00:00", "createdAtLocal": "2026-06-11 16:18",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064985640203358283", "media": [], "urls": [],
+    "quotedTweet": {"id": "2064906231727484999", "text": "Tron Inc. (NASDAQ: TRON) acquired 154,608 TRX tokens today at an average price of $0.3234 further increasing its TRX treasury holdings to more than 700.0 million TRX in total.", "author": {"screenName": "TRON_INC", "name": "Tron Inc."}}
   },
   {
     "id": "2064968436854517811",
-    "text": "RT @cloakmk: 天天看推特上FUD满天飞，结果一拉CMC数据，HTX近7天和整个5月的资金净流入全是全球第一，这就叫嘴上骂得凶，身体很诚实。\n\n币圈最大的韭菜思维就是拿情绪当指标，散户被几篇小作文吓得疑狂提币，大资金却在逆势沉淠。… https://t.co/NbS1vOXyJw",
+    "text": "RT @cloakmk: 天天看推特上FUD满天飞，结果一拉CMC数据，HTX近7天和整义5月的资金净流入全是全球第一，这就叫嘴上骢得凶，身体很诚实。\n\n币圈最大的韭菜思维就是拿情绪当指标，散户被几篇小作文吓得疑狂提币，大资金却在逆势沉淠。… https://t.co/NbS1vOXyJw",
     "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
     "metrics": {"likes": 0, "retweets": 3, "replies": 0, "quotes": 0, "views": null, "bookmarks": 0},
     "createdAt": "Thu Jun 11 07:10:15 +0000 2026", "createdAtISO": "2026-06-11T07:10:15+00:00", "createdAtLocal": "2026-06-11 15:10",
-    "isRetweet": true, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": false, "isReply": false,
-    "conversationId": "2064968436854517811", "media": [], "urls": ["https://t.co/NbS1vOXyJw"],
-    "retweetedTweet": {"id": "2064628347108532433", "text": "天天看推特上FUD满天飞，结果一拉CMC数据，HTX近7天和整个5月的资金净流入全是全球第一，这就叫嘴上骂得凶，身体很诚实。\n\n币圈最大的韭菜思维就是拿情绪当指标，散户被几篇小作文吓得疑狂提币，大资金却在逆势沉淠。", "author": {"screenName": "cloakmk", "name": "子棋（重生版）"}}
+    "isRetweet": true, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": false, "isReply": false, "conversationId": "2064968436854517811", "media": [], "urls": ["https://t.co/NbS1vOXyJw"],
+    "retweetedTweet": {"id": "2064628347108532433", "text": "天天看推特上FUD满天飞，结果一拉CMC数据，HTX近7天和整义5月的资金净流入全是全球第一，这就叫嘴上骢得凶，身体很诚实。\n\n币圈最大的韭菜思维就是拿情绪当指标，散户被几篇小作文吓得疑狂提币，大资金却在逆势沉淠。", "author": {"screenName": "cloakmk", "name": "子棋（重生版）"}}
   },
   {
-    "id": "2064915774737981528", "text": "Moving trillions starts with infrastructure people use every day. \n\nTRON just hit 14.13M daily transactions.", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 60, "retweets": 5, "replies": 46, "quotes": 4, "views": 13444, "bookmarks": 1}, "createdAt": "Thu Jun 11 03:40:59 +0000 2026", "media": [], "urls": [], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064915774737981528", "createdAtISO": "2026-06-11T03:40:59+00:00", "createdAtLocal": "2026-06-11 11:40", "quotedTweet": {"id": "2064407303416074536", "text": "14.13M+ transactions on June 5th, a new all-time high. \n\nMoving Trillions, Empowering Billions. 🚀", "author": {"screenName": "trondao", "name": "TRON DAO"}}
+    "id": "2064915774737981528",
+    "text": "Moving trillions starts with infrastructure people use every day. \n\nTRON just hit 14.13M daily transactions.",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 60, "retweets": 5, "replies": 46, "quotes": 4, "views": 13444, "bookmarks": 1},
+    "createdAt": "Thu Jun 11 03:40:59 +0000 2026", "createdAtISO": "2026-06-11T03:40:59+00:00", "createdAtLocal": "2026-06-11 11:40",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064915774737981528", "media": [], "urls": [],
+    "quotedTweet": {"id": "2064407303416074536", "text": "14.13M+ transactions on June 5th, a new all-time high. \n\nMoving Trillions, Empowering Billions. 🚀", "author": {"screenName": "trondao", "name": "TRON DAO"}}
   },
   {
-    "id": "2064683187331359161", "text": "Trust is built through action.\n\n@T3_FCU being recognized by FATF as an invaluable resource for law enforcement worldwide is an important step for a safer crypto ecosystem.", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 29, "retweets": 5, "replies": 22, "quotes": 1, "views": 11118, "bookmarks": 0}, "createdAt": "Wed Jun 10 12:16:46 +0000 2026", "media": [], "urls": [], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064683187331359161", "createdAtISO": "2026-06-10T12:16:46+00:00", "createdAtLocal": "2026-06-10 20:16", "quotedTweet": {"id": "2064434163839582693", "text": "The Financial Action Task Force (@FATFNews) recognized T3 FCU as an \"invaluable resource for law enforcement agencies worldwide\" in its 2025 Asset Recovery Guidance.\n\nLearn more below.", "author": {"screenName": "T3_FCU", "name": "T3 Financial Crime Unit"}}
+    "id": "2064683187331359161",
+    "text": "Trust is built through action.\n\n@T3_FCU being recognized by FATF as an invaluable resource for law enforcement worldwide is an important step for a safer crypto ecosystem.",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 29, "retweets": 5, "replies": 22, "quotes": 1, "views": 11118, "bookmarks": 0},
+    "createdAt": "Wed Jun 10 12:16:46 +0000 2026", "createdAtISO": "2026-06-10T12:16:46+00:00", "createdAtLocal": "2026-06-10 20:16",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064683187331359161", "media": [], "urls": [],
+    "quotedTweet": {"id": "2064434163839582693", "text": "The Financial Action Task Force (@FATFNews) recognized T3 FCU as an \"invaluable resource for law enforcement agencies worldwide\" in its 2025 Asset Recovery Guidance.", "author": {"screenName": "T3_FCU", "name": "T3 Financial Crime Unit"}}
   },
   {
-    "id": "2064628604773028165", "text": "Claude Fable 5 现已上线http://B.AI \n\nAnthropic 最新发布的 Claude Fable 5 已由http://B.AI 技术团队第一时间完成接入，现已正式开放 API 调用。\n\n作为 Anthropic 迎今最强大的编码模型，Claude Fable 5 专为处理长周期、高不确定性的复杂任务而设计。", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 32, "retweets": 3, "replies": 31, "quotes": 1, "views": 6891, "bookmarks": 4}, "createdAt": "Wed Jun 10 08:39:52 +0000 2026", "media": [], "urls": ["http://B.AI"], "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064628604773028165", "createdAtISO": "2026-06-10T08:39:52+00:00", "createdAtLocal": "2026-06-10 16:39", "quotedTweet": {"id": "2064618291755384941", "text": "📢 Claude Fable 5 现已上线 B.AI\n\nAnthropic 最新发布的 Claude Fable 5 已由 B.AI 技术团队第一时间完成接入，现已正式开放 API 调用。\n\n作为 Anthropic 迎今最强大的编码模型，Claude Fable 5 专为处理长周期、高不确定性的复杂任务而设计。", "author": {"screenName": "BAI_AGI", "name": "B.AI"}}
+    "id": "2064628604773028165",
+    "text": "Claude Fable 5 现已上线http://B.AI \n\nAnthropic 最新发布的 Claude Fable 5 已由http://B.AI 技术团队第一时间完成接入，现已正式开放 API 调用。\n\n作为 Anthropic 迎今最强大的编码模型，Claude Fable 5 专为处理长周期、高不确定性的复杂任务而设计。",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 32, "retweets": 3, "replies": 31, "quotes": 1, "views": 6891, "bookmarks": 4},
+    "createdAt": "Wed Jun 10 08:39:52 +0000 2026", "createdAtISO": "2026-06-10T08:39:52+00:00", "createdAtLocal": "2026-06-10 16:39",
+    "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064628604773028165", "media": [], "urls": ["http://B.AI"],
+    "quotedTweet": {"id": "2064618291755384941", "text": "📢 Claude Fable 5 现已上线 B.AI", "author": {"screenName": "BAI_AGI", "name": "B.AI"}}
   },
   {
-    "id": "2064545559281865007", "text": "Education is part of adoption. Digital assets need the next generation to understand both the technology and the responsibility behind it.", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 37, "retweets": 2, "replies": 33, "quotes": 2, "views": 8592, "bookmarks": 0}, "createdAt": "Wed Jun 10 03:09:53 +0000 2026", "media": [], "urls": [], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064545559281865007", "createdAtISO": "2026-06-10T03:09:53+00:00", "createdAtLocal": "2026-06-10 11:09", "quotedTweet": {"id": "2063001136081100934", "text": "The Digital Sovereignty Alliance (DSA) announced the completion of the inaugural session of its new Digital Asset Case Study Course...", "author": {"screenName": "DSAForg", "name": "Digital Sovereignty Alliance (DSA)"}}
+    "id": "2064545559281865007",
+    "text": "Education is part of adoption. Digital assets need the next generation to understand both the technology and the responsibility behind it.",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 37, "retweets": 2, "replies": 33, "quotes": 2, "views": 8592, "bookmarks": 0},
+    "createdAt": "Wed Jun 10 03:09:53 +0000 2026", "createdAtISO": "2026-06-10T03:09:53+00:00", "createdAtLocal": "2026-06-10 11:09",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064545559281865007", "media": [], "urls": [],
+    "quotedTweet": {"id": "2063001136081100934", "text": "The Digital Sovereignty Alliance (DSA) announced the completion of the inaugural session of its new Digital Asset Case Study Course...", "author": {"screenName": "DSAForg", "name": "Digital Sovereignty Alliance (DSA)"}}
   },
   {
-    "id": "2064384406446612750", "text": "More access is how adoption scales. TRON's ecosystem keeps expanding globally.", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 47, "retweets": 6, "replies": 29, "quotes": 0, "views": 9435, "bookmarks": 0}, "createdAt": "Tue Jun 09 16:29:31 +0000 2026", "media": [], "urls": [], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064384406446612750", "createdAtISO": "2026-06-09T16:29:31+00:00", "createdAtLocal": "2026-06-10 00:29", "quotedTweet": {"id": "2063365055102570774", "text": "This past month, TRON continued expanding ecosystem access through integrations with platforms like @OKX...", "author": {"screenName": "trondao", "name": "TRON DAO"}}
+    "id": "2064384406446612750",
+    "text": "More access is how adoption scales. TRON's ecosystem keeps expanding globally.",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 47, "retweets": 6, "replies": 29, "quotes": 0, "views": 9435, "bookmarks": 0},
+    "createdAt": "Tue Jun 09 16:29:31 +0000 2026", "createdAtISO": "2026-06-09T16:29:31+00:00", "createdAtLocal": "2026-06-10 00:29",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064384406446612750", "media": [], "urls": [],
+    "quotedTweet": {"id": "2063365055102570774", "text": "This past month, TRON continued expanding ecosystem access through integrations with platforms like @OKX...", "author": {"screenName": "trondao", "name": "TRON DAO"}}
   },
   {
-    "id": "2064337343688147070", "text": "With better data access, more people can see why TRON has become one of the main networks for stablecoin activity.", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 94, "retweets": 11, "replies": 50, "quotes": 4, "views": 18240, "bookmarks": 3}, "createdAt": "Tue Jun 09 13:22:30 +0000 2026", "media": [], "urls": ["https://x.com/trondao/status/2064054132323852481"], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064337343688147070", "createdAtISO": "2026-06-09T13:22:30+00:00", "createdAtLocal": "2026-06-09 21:22", "quotedTweet": {"id": "2064054132323852481", "text": "The #TRON blockchain is optimized for low-cost, high-throughput transfers...", "author": {"screenName": "trondao", "name": "TRON DAO"}}
+    "id": "2064337343688147070",
+    "text": "With better data access, more people can see why TRON has become one of the main networks for stablecoin activity.",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 94, "retweets": 11, "replies": 50, "quotes": 4, "views": 18240, "bookmarks": 3},
+    "createdAt": "Tue Jun 09 13:22:30 +0000 2026", "createdAtISO": "2026-06-09T13:22:30+00:00", "createdAtLocal": "2026-06-09 21:22",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064337343688147070", "media": [], "urls": ["https://x.com/trondao/status/2064054132323852481"],
+    "quotedTweet": {"id": "2064054132323852481", "text": "The #TRON blockchain is optimized for low-cost, high-throughput transfers...", "author": {"screenName": "trondao", "name": "TRON DAO"}}
   },
   {
-    "id": "2064252868270665917", "text": "Keep going", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 71, "retweets": 7, "replies": 42, "quotes": 0, "views": 11913, "bookmarks": 0}, "createdAt": "Tue Jun 09 07:46:50 +0000 2026", "media": [], "urls": ["https://x.com/TRON_INC/status/2064164000263450691"], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064252868270665917", "createdAtISO": "2026-06-09T07:46:50+00:00", "createdAtLocal": "2026-06-09 15:46", "quotedTweet": {"id": "2064164000263450691", "text": "Tron Inc. (NASDAQ: TRON) acquired 152,821 TRX tokens today at an average price of $0.3272...", "author": {"screenName": "TRON_INC", "name": "Tron Inc."}}
+    "id": "2064252868270665917",
+    "text": "Keep going",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 71, "retweets": 7, "replies": 42, "quotes": 0, "views": 11913, "bookmarks": 0},
+    "createdAt": "Tue Jun 09 07:46:50 +0000 2026", "createdAtISO": "2026-06-09T07:46:50+00:00", "createdAtLocal": "2026-06-09 15:46",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064252868270665917", "media": [], "urls": ["https://x.com/TRON_INC/status/2064164000263450691"],
+    "quotedTweet": {"id": "2064164000263450691", "text": "Tron Inc. (NASDAQ: TRON) acquired 152,821 TRX tokens today at an average price of $0.3272...", "author": {"screenName": "TRON_INC", "name": "Tron Inc."}}
   },
   {
-    "id": "2064197275119996934", "text": "Guess which network kept growing fundamentals in Q1.\n\nTRON keeps building.", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 123, "retweets": 15, "replies": 50, "quotes": 0, "views": 32816, "bookmarks": 1}, "createdAt": "Tue Jun 09 04:05:55 +0000 2026", "media": [], "urls": ["https://x.com/MessariCrypto/status/2062619317427187935"], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064197275119996934", "createdAtISO": "2026-06-09T04:05:55+00:00", "createdAtLocal": "2026-06-09 12:05", "quotedTweet": {"id": "2062619317427187935", "text": "Q1 2026 State of Blockchains is live...", "author": {"screenName": "MessariCrypto", "name": "Messari"}}
+    "id": "2064197275119996934",
+    "text": "Guess which network kept growing fundamentals in Q1.\n\nTRON keeps building.",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 123, "retweets": 15, "replies": 50, "quotes": 0, "views": 32816, "bookmarks": 1},
+    "createdAt": "Tue Jun 09 04:05:55 +0000 2026", "createdAtISO": "2026-06-09T04:05:55+00:00", "createdAtLocal": "2026-06-09 12:05",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064197275119996934", "media": [], "urls": ["https://x.com/MessariCrypto/status/2062619317427187935"],
+    "quotedTweet": {"id": "2062619317427187935", "text": "Q1 2026 State of Blockchains is live...", "author": {"screenName": "MessariCrypto", "name": "Messari"}}
   },
   {
-    "id": "2063975900501467158", "text": "Tron 全球合规典范！ https://t.co/1n9vbrEIxp", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 35, "retweets": 1, "replies": 19, "quotes": 0, "views": 10030, "bookmarks": 0}, "createdAt": "Mon Jun 08 13:26:16 +0000 2026", "media": [], "urls": ["https://twitter.com/0xMoon/status/2063968387626332322"], "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": true, "isReply": false, "conversationId": "2063975900501467158", "createdAtISO": "2026-06-08T13:26:16+00:00", "createdAtLocal": "2026-06-08 21:26"
+    "id": "2063975900501467158",
+    "text": "Tron 全球合规典范！ https://t.co/1n9vbrEIxp",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 35, "retweets": 1, "replies": 19, "quotes": 0, "views": 10030, "bookmarks": 0},
+    "createdAt": "Mon Jun 08 13:26:16 +0000 2026", "createdAtISO": "2026-06-08T13:26:16+00:00", "createdAtLocal": "2026-06-08 21:26",
+    "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": true, "isReply": false, "conversationId": "2063975900501467158", "media": [], "urls": ["https://twitter.com/0xMoon/status/2063968387626332322"]
   },
   {
-    "id": "2063975504819175630", "text": "USDD在火币也可以当保证金啊！ https://t.co/nFbfPtJRoS", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 23, "retweets": 2, "replies": 21, "quotes": 0, "views": 8842, "bookmarks": 0}, "createdAt": "Mon Jun 08 13:24:41 +0000 2026", "media": [], "urls": ["https://twitter.com/HuobiGlobal/status/2062368752969429468"], "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": false, "isReply": false, "conversationId": "2063975504819175630", "createdAtISO": "2026-06-08T13:24:41+00:00", "createdAtLocal": "2026-06-08 21:24"
+    "id": "2063975504819175630",
+    "text": "USDD在火币也可以当保证金啊！ https://t.co/nFbfPtJRoS",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 23, "retweets": 2, "replies": 21, "quotes": 0, "views": 8842, "bookmarks": 0},
+    "createdAt": "Mon Jun 08 13:24:41 +0000 2026", "createdAtISO": "2026-06-08T13:24:41+00:00", "createdAtLocal": "2026-06-08 21:24",
+    "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": false, "isReply": false, "conversationId": "2063975504819175630", "media": [], "urls": ["https://twitter.com/HuobiGlobal/status/2062368752969429468"]
   },
   {
-    "id": "2063970582186820079", "text": "火币机构服务全新升级，体验一下 https://t.co/ySyanJDyGe", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 24, "retweets": 0, "replies": 34, "quotes": 0, "views": 12528, "bookmarks": 0}, "createdAt": "Mon Jun 08 13:05:08 +0000 2026", "media": [], "urls": ["https://twitter.com/HuobiGlobal/status/2063931541907279909"], "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": false, "isReply": false, "conversationId": "2063970582186820079", "createdAtISO": "2026-06-08T13:05:08+00:00", "createdAtLocal": "2026-06-08 21:05"
+    "id": "2063970582186820079",
+    "text": "火币机构服务全新升级，体验一下 https://t.co/ySyanJDyGe",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 24, "retweets": 0, "replies": 34, "quotes": 0, "views": 12528, "bookmarks": 0},
+    "createdAt": "Mon Jun 08 13:05:08 +0000 2026", "createdAtISO": "2026-06-08T13:05:08+00:00", "createdAtLocal": "2026-06-08 21:05",
+    "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": false, "isReply": false, "conversationId": "2063970582186820079", "media": [], "urls": ["https://twitter.com/HuobiGlobal/status/2063931541907279909"]
   },
   {
-    "id": "2063959643324637510", "text": "USDD grows fast", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 43, "retweets": 4, "replies": 20, "quotes": 1, "views": 9481, "bookmarks": 0}, "createdAt": "Mon Jun 08 12:21:40 +0000 2026", "media": [], "urls": ["https://x.com/sanmiastar/status/2062412400821694721"], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2063959643324637510", "createdAtISO": "2026-06-08T12:21:40+00:00", "createdAtLocal": "2026-06-08 20:21"
+    "id": "2063959643324637510",
+    "text": "USDD grows fast",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 43, "retweets": 4, "replies": 20, "quotes": 1, "views": 9481, "bookmarks": 0},
+    "createdAt": "Mon Jun 08 12:21:40 +0000 2026", "createdAtISO": "2026-06-08T12:21:40+00:00", "createdAtLocal": "2026-06-08 20:21",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2063959643324637510", "media": [], "urls": ["https://x.com/sanmiastar/status/2062412400821694721"]
   },
   {
-    "id": "2063959462701072416", "text": "1.9 million users on B.AI", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 29, "retweets": 3, "replies": 19, "quotes": 0, "views": 9308, "bookmarks": 0}, "createdAt": "Mon Jun 08 12:20:57 +0000 2026", "media": [], "urls": ["http://B.AI", "https://x.com/BAI_AGI/status/2063885843450978724"], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": false, "isReply": false, "conversationId": "2063959462701072416", "createdAtISO": "2026-06-08T12:20:57+00:00", "createdAtLocal": "2026-06-08 20:20"
+    "id": "2063959462701072416",
+    "text": "1.9 million users on B.AI",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 29, "retweets": 3, "replies": 19, "quotes": 0, "views": 9308, "bookmarks": 0},
+    "createdAt": "Mon Jun 08 12:20:57 +0000 2026", "createdAtISO": "2026-06-08T12:20:57+00:00", "createdAtLocal": "2026-06-08 20:20",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": false, "isReply": false, "conversationId": "2063959462701072416", "media": [], "urls": ["http://B.AI", "https://x.com/BAI_AGI/status/2063885843450978724"]
   },
   {
-    "id": "2063817350118596988", "text": "Crypto adoption needs trust, transparency, and strong global coordination.\n\nGreat to see @T3_FCU now working across 23 jurisdictions and five continents. Keep building.", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 10, "retweets": 1, "replies": 13, "quotes": 0, "views": 2216, "bookmarks": 1}, "createdAt": "Mon Jun 08 02:56:14 +0000 2026", "media": [], "urls": [], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2063817350118596988", "createdAtISO": "2026-06-08T02:56:14+00:00", "createdAtLocal": "2026-06-08 10:56"
+    "id": "2063817350118596988",
+    "text": "Crypto adoption needs trust, transparency, and strong global coordination.\n\nGreat to see @T3_FCU now working across 23 jurisdictions and five continents. Keep building.",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 10, "retweets": 1, "replies": 13, "quotes": 0, "views": 2216, "bookmarks": 1},
+    "createdAt": "Mon Jun 08 02:56:14 +0000 2026", "createdAtISO": "2026-06-08T02:56:14+00:00", "createdAtLocal": "2026-06-08 10:56",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2063817350118596988", "media": [], "urls": []
   },
   {
-    "id": "2062819986557800857", "text": "TRON's focus has always been simple: build rails people can use every day, everywhere.\n\nAppreciate the support.", "author": {"id": "902839045356744704", "name": "H.E. Justin Sun", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true}, "metrics": {"likes": 38, "retweets": 5, "replies": 22, "quotes": 2, "views": 9999, "bookmarks": 2}, "createdAt": "Sat Jun 06 09:00:00 +0000 2026", "media": [], "urls": [], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2062819986557800857", "createdAtISO": "2026-06-06T09:00:00+00:00", "createdAtLocal": "2026-06-06 17:00"
+    "id": "2062819986557800857",
+    "text": "TRON's focus has always been simple: build rails people can use every day, everywhere.\n\nAppreciate the support.",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 38, "retweets": 5, "replies": 22, "quotes": 2, "views": 9999, "bookmarks": 2},
+    "createdAt": "Sat Jun 06 09:00:00 +0000 2026", "createdAtISO": "2026-06-06T09:00:00+00:00", "createdAtLocal": "2026-06-06 17:00",
+    "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2062819986557800857", "media": [], "urls": []
   }
 ]
