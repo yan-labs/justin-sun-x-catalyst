@@ -1,5 +1,13 @@
 [
   {
+    "id": "2064915774737981528",
+    "text": "Moving trillions starts with infrastructure people use every day. \n\nTRON just hit 14.13M daily transactions.",
+    "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
+    "metrics": {"likes": 60, "retweets": 5, "replies": 46, "quotes": 4, "views": 13444, "bookmarks": 1},
+    "createdAt": "Thu Jun 11 03:40:59 +0000 2026", "media": [], "urls": [], "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064915774737981528", "createdAtISO": "2026-06-11T03:40:59+00:00", "createdAtLocal": "2026-06-11 11:40",
+    "quotedTweet": {"id": "2064407303416074536", "text": "14.13M+ transactions on June 5th, a new all-time high. \n\nMoving Trillions, Empowering Billions. 🚀", "author": {"screenName": "trondao", "name": "TRON DAO"}}
+  },
+  {
     "id": "2064683187331359161",
     "text": "Trust is built through action.\n\n@T3_FCU being recognized by FATF as an invaluable resource for law enforcement worldwide is an important step for a safer crypto ecosystem.",
     "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
@@ -9,11 +17,11 @@
   },
   {
     "id": "2064628604773028165",
-    "text": "Claude Fable 5 现已上线http://B.AI \n\nAnthropic 最新发布的 Claude Fable 5 已由http://B.AI 技术团队第一时间完成接入，现已正式开放 API 调用。\n\n作为 Anthropic 迄今最强大的编码模型，Claude Fable 5 专为处理长周期、高不确定性的复杂任务而设计。",
+    "text": "Claude Fable 5 现已上线http://B.AI \n\nAnthropic 最新发布的 Claude Fable 5 已由http://B.AI 技术团队第一时间完成接入，现已正式开放 API 调用。\n\n作为 Anthropic 迎今最强大的编码模型，Claude Fable 5 专为处理长周期、高不确定性的复杂任务而设计。",
     "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
     "metrics": {"likes": 32, "retweets": 3, "replies": 31, "quotes": 1, "views": 6891, "bookmarks": 4},
     "createdAt": "Wed Jun 10 08:39:52 +0000 2026", "media": [], "urls": ["http://B.AI"], "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064628604773028165", "createdAtISO": "2026-06-10T08:39:52+00:00", "createdAtLocal": "2026-06-10 16:39",
-    "quotedTweet": {"id": "2064618291755384941", "text": "📢 Claude Fable 5 现已上线 B.AI\n\nAnthropic 最新发布的 Claude Fable 5 已由 B.AI 技术团队第一时间完成接入，现已正式开放 API 调用。\n\n作为 Anthropic 迄今最强大的编码模型，Claude Fable 5 专为处理长周期、高不确定性的复杂任务而设计。", "author": {"screenName": "BAI_AGI", "name": "B.AI"}}
+    "quotedTweet": {"id": "2064618291755384941", "text": "📢 Claude Fable 5 现已上线 B.AI\n\nAnthropic 最新发布的 Claude Fable 5 已由 B.AI 技术团队第一时间完成接入，现已正式开放 API 调用。\n\n作为 Anthropic 迎今最强大的编码模型，Claude Fable 5 专为处理长周期、高不确定性的复杂任务而设计。", "author": {"screenName": "BAI_AGI", "name": "B.AI"}}
   },
   {
     "id": "2064545559281865007",
