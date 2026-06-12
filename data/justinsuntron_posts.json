@@ -1,5 +1,44 @@
 [
   {
+    "id": "2065263481096679799",
+    "text": "Now the question is: on TRON?",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 26,
+      "retweets": 4,
+      "replies": 20,
+      "quotes": 0,
+      "views": 4390,
+      "bookmarks": 1
+    },
+    "createdAt": "Fri Jun 12 02:42:39 +0000 2026",
+    "createdAtISO": "2026-06-12T02:42:39+00:00",
+    "createdAtLocal": "2026-06-12 10:42",
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2065263481096679799",
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "id": "2064643326955905307",
+      "text": "JUST IN: Japan's three largest banks, MUFG, SMBC and Mizuho, plan to jointly issue a stablecoin by March 2027.",
+      "author": {
+        "screenName": "CoinDesk",
+        "name": "CoinDesk"
+      }
+    }
+  },
+  {
     "id": "2065020546694439115",
     "text": "386M accounts. Keep counting.",
     "author": {
@@ -46,7 +85,7 @@
     "createdAtLocal": "2026-06-11 17:13",
     "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": true, "isReply": false,
     "conversationId": "2064999525958426835", "media": [], "urls": ["http://B.AI"],
-    "quotedTweet": {"id": "2064980741365395917", "text": "📢 Claude Fable 5 现已正式登陆 B.AI 网页端！继 API 率先接入之后，Claude Fable 5 现在也已全面开放 Web Chat 使用。打开网页对话端，即可直接体验 Anthropic 新一代高性能模型带来的强大能力。", "author": {"screenName": "BAI_AGI", "name": "B.AI"}}
+    "quotedTweet": {"id": "2064980741365395917", "text": "Claude Fable 5 现已正式登陆 B.AI 网页端", "author": {"screenName": "BAI_AGI", "name": "B.AI"}}
   },
   {
     "id": "2064985640203358283",
@@ -59,12 +98,11 @@
   },
   {
     "id": "2064968436854517811",
-    "text": "RT @cloakmk: 天天看推特上FUD满天飞，结果一拉CMC数据，HTX近7天和整义5月的资金净流入全是全球第一，这就叫嘴上骢得凶，身体很诚实。\n\n币圈最大的韭菜思维就是拿情绪当指标，散户被几篇小作文吓得疑狂提币，大资金却在逆势沉淠。… https://t.co/NbS1vOXyJw",
+    "text": "RT @cloakmk: CMC数据显示HTX迗7天及5月全月资金净流入全球第一，大资金逆势沉淠，散户恐慢踩踏但蠆明錢在充値避险",
     "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
     "metrics": {"likes": 0, "retweets": 3, "replies": 0, "quotes": 0, "views": null, "bookmarks": 0},
     "createdAt": "Thu Jun 11 07:10:15 +0000 2026", "createdAtISO": "2026-06-11T07:10:15+00:00", "createdAtLocal": "2026-06-11 15:10",
-    "isRetweet": true, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": false, "isReply": false, "conversationId": "2064968436854517811", "media": [], "urls": ["https://t.co/NbS1vOXyJw"],
-    "retweetedTweet": {"id": "2064628347108532433", "text": "天天看推特上FUD满天飞，结果一拉CMC数据，HTX近7天和整义5月的资金净流入全是全球第一，这就叫嘴上骢得凶，身体很诚实。\n\n币圈最大的韭菜思维就是拿情绪当指标，散户被几篇小作文吓得疑狂提币，大资金却在逆势沉淠。", "author": {"screenName": "cloakmk", "name": "子棋（重生版）"}}
+    "isRetweet": true, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": false, "isReply": false, "conversationId": "2064968436854517811", "media": [], "urls": ["https://t.co/NbS1vOXyJw"]
   },
   {
     "id": "2064915774737981528",
@@ -73,7 +111,7 @@
     "metrics": {"likes": 60, "retweets": 5, "replies": 46, "quotes": 4, "views": 13444, "bookmarks": 1},
     "createdAt": "Thu Jun 11 03:40:59 +0000 2026", "createdAtISO": "2026-06-11T03:40:59+00:00", "createdAtLocal": "2026-06-11 11:40",
     "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064915774737981528", "media": [], "urls": [],
-    "quotedTweet": {"id": "2064407303416074536", "text": "14.13M+ transactions on June 5th, a new all-time high. \n\nMoving Trillions, Empowering Billions. 🚀", "author": {"screenName": "trondao", "name": "TRON DAO"}}
+    "quotedTweet": {"id": "2064407303416074536", "text": "14.13M+ transactions on June 5th, a new all-time high.", "author": {"screenName": "trondao", "name": "TRON DAO"}}
   },
   {
     "id": "2064683187331359161",
@@ -82,16 +120,16 @@
     "metrics": {"likes": 29, "retweets": 5, "replies": 22, "quotes": 1, "views": 11118, "bookmarks": 0},
     "createdAt": "Wed Jun 10 12:16:46 +0000 2026", "createdAtISO": "2026-06-10T12:16:46+00:00", "createdAtLocal": "2026-06-10 20:16",
     "isRetweet": false, "retweetedBy": null, "lang": "en", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064683187331359161", "media": [], "urls": [],
-    "quotedTweet": {"id": "2064434163839582693", "text": "The Financial Action Task Force (@FATFNews) recognized T3 FCU as an \"invaluable resource for law enforcement agencies worldwide\" in its 2025 Asset Recovery Guidance.", "author": {"screenName": "T3_FCU", "name": "T3 Financial Crime Unit"}}
+    "quotedTweet": {"id": "2064434163839582693", "text": "The Financial Action Task Force (@FATFNews) recognized T3 FCU as an invaluable resource for law enforcement agencies worldwide in its 2025 Asset Recovery Guidance.", "author": {"screenName": "T3_FCU", "name": "T3 Financial Crime Unit"}}
   },
   {
     "id": "2064628604773028165",
-    "text": "Claude Fable 5 现已上线http://B.AI \n\nAnthropic 最新发布的 Claude Fable 5 已由http://B.AI 技术团队第一时间完成接入，现已正式开放 API 调用。\n\n作为 Anthropic 迎今最强大的编码模型，Claude Fable 5 专为处理长周期、高不确定性的复杂任务而设计。",
+    "text": "Claude Fable 5 现已上线http://B.AI",
     "author": {"id": "902839045356744704", "name": "H.E. Justin Sun 👨‍🚀 🌞", "screenName": "justinsuntron", "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg", "verified": true},
     "metrics": {"likes": 32, "retweets": 3, "replies": 31, "quotes": 1, "views": 6891, "bookmarks": 4},
     "createdAt": "Wed Jun 10 08:39:52 +0000 2026", "createdAtISO": "2026-06-10T08:39:52+00:00", "createdAtLocal": "2026-06-10 16:39",
     "isRetweet": false, "retweetedBy": null, "lang": "zh", "score": null, "isQuote": true, "isReply": false, "conversationId": "2064628604773028165", "media": [], "urls": ["http://B.AI"],
-    "quotedTweet": {"id": "2064618291755384941", "text": "📢 Claude Fable 5 现已上线 B.AI", "author": {"screenName": "BAI_AGI", "name": "B.AI"}}
+    "quotedTweet": {"id": "2064618291755384941", "text": "Claude Fable 5 现已上线 B.AI", "author": {"screenName": "BAI_AGI", "name": "B.AI"}}
   },
   {
     "id": "2064545559281865007",
