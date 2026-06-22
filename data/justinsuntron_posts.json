@@ -1,5 +1,61 @@
 [
   {
+    "id": "2069089926168359321",
+    "text": "Justlend V2 is live now",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 32,
+      "retweets": 3,
+      "replies": 13,
+      "quotes": 1,
+      "views": 27853,
+      "bookmarks": 1
+    },
+    "createdAt": "Mon Jun 22 16:07:34 +0000 2026",
+    "createdAtISO": "2026-06-22T16:07:34+00:00",
+    "createdAtLocal": "2026-06-23 00:07",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
+    "id": "2069089423111930047",
+    "text": ".@UstablesZH on @DeFi_JUST",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 27,
+      "retweets": 3,
+      "replies": 15,
+      "quotes": 0,
+      "views": 29304,
+      "bookmarks": 1
+    },
+    "createdAt": "Mon Jun 22 16:05:34 +0000 2026",
+    "createdAtISO": "2026-06-22T16:05:34+00:00",
+    "createdAtLocal": "2026-06-23 00:05",
+    "isRetweet": false,
+    "lang": "und",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2069006100041732364",
     "text": "Stablecoins are becoming payment infrastructure.  USDT on TRON is already proving that at scale every day.",
     "author": {
