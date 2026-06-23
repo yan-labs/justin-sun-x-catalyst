@@ -1,5 +1,40 @@
 [
   {
+    "id": "1905324113851547790",
+    "text": "From a visionary to a global force — honored to be featured on Forbes as Crypto’s Billionaire Barker. TRON’s journey continues, powering a global payment system with 300 million users and counting. Decentralization will prevail. https://t.co/m6FXcbrvMJ",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 7159,
+      "retweets": 1362,
+      "replies": 4030,
+      "quotes": 359,
+      "views": 5196622,
+      "bookmarks": 483
+    },
+    "createdAt": "Thu Mar 27 18:20:42 +0000 2025",
+    "createdAtISO": "2025-03-27T18:20:42+00:00",
+    "createdAtLocal": "2025-03-28 02:20",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnESLayasAApxh4.jpg",
+        "width": 710,
+        "height": 888
+      }
+    ],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2069270806383989154",
     "text": "Moving trillions, empowering billions.\n\nThe next chapter is agentic AI payments on TRON.",
     "author": {
