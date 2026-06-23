@@ -1,5 +1,117 @@
 [
   {
+    "id": "2069370189674910036",
+    "text": "千亿Q3应该可以达到",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 10,
+      "retweets": 0,
+      "replies": 17,
+      "quotes": 0,
+      "views": 21554,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 23 10:41:14 +0000 2026",
+    "createdAtISO": "2026-06-23T10:41:14+00:00",
+    "createdAtLocal": "2026-06-23 18:41",
+    "isRetweet": false,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
+    "id": "2069368323851342119",
+    "text": "Big congrats on @MiniMax_AI team!",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 22,
+      "retweets": 2,
+      "replies": 21,
+      "quotes": 0,
+      "views": 22135,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 23 10:33:50 +0000 2026",
+    "createdAtISO": "2026-06-23T10:33:50+00:00",
+    "createdAtLocal": "2026-06-23 18:33",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
+    "id": "2069368138920325202",
+    "text": "日 Token 吞吐量创 12.09B 历史峰值： 平台业务规模持续高位放量，全天候平稳承载海量高并发、大流量的真实企业级业务场景。",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 15,
+      "retweets": 0,
+      "replies": 16,
+      "quotes": 0,
+      "views": 23327,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 23 10:33:05 +0000 2026",
+    "createdAtISO": "2026-06-23T10:33:05+00:00",
+    "createdAtLocal": "2026-06-23 18:33",
+    "isRetweet": false,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
+    "id": "2069361336409342102",
+    "text": "$U is now on Justlend @DeFi_JUST",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 39,
+      "retweets": 4,
+      "replies": 29,
+      "quotes": 0,
+      "views": 32507,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 23 10:06:04 +0000 2026",
+    "createdAtISO": "2026-06-23T10:06:04+00:00",
+    "createdAtLocal": "2026-06-23 18:06",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2069330996856852876",
     "text": "RT @BitgetWalletCN: 很高兴 @BAI_AGI 正式登陆我们的 DApp 专区啦！\n\n你现在可以零门槛体验，专为 AI Agent 时代打造的底层金融基础设施。\n\n同时 Bitget Wallet 用户专属福利：\n✓ 新用户注册即领 100 万 AI Cred…",
     "author": {
