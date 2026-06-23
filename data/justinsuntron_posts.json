@@ -1,5 +1,33 @@
 [
   {
+    "id": "2069270806383989154",
+    "text": "Moving trillions, empowering billions.\n\nThe next chapter is agentic AI payments on TRON.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 60,
+      "retweets": 4,
+      "replies": 41,
+      "quotes": 3,
+      "views": 32833,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jun 23 04:06:20 +0000 2026",
+    "createdAtISO": "2026-06-23T04:06:20+00:00",
+    "createdAtLocal": "2026-06-23 12:06",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2069089926168359321",
     "text": "Justlend V2 is live now",
     "author": {
