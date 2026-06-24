@@ -1,5 +1,61 @@
 [
   {
+    "id": "2069656766573666312",
+    "text": "Clarity first. BUIDL.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 15,
+      "retweets": 1,
+      "replies": 9,
+      "quotes": 0,
+      "views": 21422,
+      "bookmarks": 1
+    },
+    "createdAt": "Wed Jun 24 05:40:00 +0000 2026",
+    "createdAtISO": "2026-06-24T05:40:00+00:00",
+    "createdAtLocal": "2026-06-24 13:40",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
+    "id": "2069654814636855547",
+    "text": "RT @WebX_Asia: 📢We are excited to announce that TRON (@trondao) is a Platinum Sponsor of #WebX2026 🇯🇵\n\nSee you at #WebX2026 on 13 - 14th Ju…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "views": 21600,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Jun 24 05:32:14 +0000 2026",
+    "createdAtISO": "2026-06-24T05:32:14+00:00",
+    "createdAtLocal": "2026-06-24 13:32",
+    "isRetweet": true,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2069620295326175413",
     "text": "Wen 400M?",
     "author": {
