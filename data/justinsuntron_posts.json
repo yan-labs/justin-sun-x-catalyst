@@ -1,5 +1,61 @@
 [
   {
+    "id": "2069721303553376717",
+    "text": "快来https://t.co/nMjQcILxG5 享受AI基础设施",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 10,
+      "retweets": 1,
+      "replies": 8,
+      "quotes": 0,
+      "views": 17860,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Jun 24 09:56:26 +0000 2026",
+    "createdAtISO": "2026-06-24T09:56:26+00:00",
+    "createdAtLocal": "2026-06-24 17:56",
+    "isRetweet": false,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
+    "id": "2069709528720081006",
+    "text": "https://t.co/nMjQcILxG5 on Imtoken",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 25,
+      "retweets": 1,
+      "replies": 12,
+      "quotes": 0,
+      "views": 30968,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Jun 24 09:09:39 +0000 2026",
+    "createdAtISO": "2026-06-24T09:09:39+00:00",
+    "createdAtLocal": "2026-06-24 17:09",
+    "isRetweet": false,
+    "lang": "nl",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2069686099207934428",
     "text": "RT @BAI_AGI: ⏳ 【最后 24 小时】MiniMax M3.0 限时免费即将收官，抓紧最后机会！\n\n6 月 25 日 15:00（SGT），为期 7 天的 @MiniMax_AI M3.0 免费体验将正式截止。百万级上下文、原生多模态的终极性能，抓紧最后的免费窗口一…",
     "author": {
