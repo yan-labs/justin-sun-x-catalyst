@@ -1,5 +1,33 @@
 [
   {
+    "id": "2069771385547960682",
+    "text": "GLM KIMI is on https://t.co/nMjQcILxG5",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 29,
+      "retweets": 5,
+      "replies": 19,
+      "quotes": 0,
+      "views": 33001,
+      "bookmarks": 3
+    },
+    "createdAt": "Wed Jun 24 13:15:27 +0000 2026",
+    "createdAtISO": "2026-06-24T13:15:27+00:00",
+    "createdAtLocal": "2026-06-24 21:15",
+    "isRetweet": false,
+    "lang": "et",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2069743613454725537",
     "text": "3.93M active addresses in 24h. Keep on building! 💪",
     "author": {
