@@ -1,5 +1,61 @@
 [
   {
+    "id": "2069686099207934428",
+    "text": "RT @BAI_AGI: ⏳ 【最后 24 小时】MiniMax M3.0 限时免费即将收官，抓紧最后机会！\n\n6 月 25 日 15:00（SGT），为期 7 天的 @MiniMax_AI M3.0 免费体验将正式截止。百万级上下文、原生多模态的终极性能，抓紧最后的免费窗口一…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 3,
+      "replies": 0,
+      "quotes": 0,
+      "views": 16085,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Jun 24 07:36:33 +0000 2026",
+    "createdAtISO": "2026-06-24T07:36:33+00:00",
+    "createdAtLocal": "2026-06-24 15:36",
+    "isRetweet": true,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
+    "id": "2069685709548728429",
+    "text": "Keep going",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 29,
+      "retweets": 6,
+      "replies": 22,
+      "quotes": 0,
+      "views": 24494,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Jun 24 07:35:00 +0000 2026",
+    "createdAtISO": "2026-06-24T07:35:00+00:00",
+    "createdAtLocal": "2026-06-24 15:35",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2069656766573666312",
     "text": "Clarity first. BUIDL.",
     "author": {
