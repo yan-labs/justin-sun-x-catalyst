@@ -1,5 +1,33 @@
 [
   {
+    "id": "2069743613454725537",
+    "text": "3.93M active addresses in 24h. Keep on building! 💪",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 40,
+      "retweets": 5,
+      "replies": 22,
+      "quotes": 2,
+      "views": 29749,
+      "bookmarks": 1
+    },
+    "createdAt": "Wed Jun 24 11:25:06 +0000 2026",
+    "createdAtISO": "2026-06-24T11:25:06+00:00",
+    "createdAtLocal": "2026-06-24 19:25",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2069721303553376717",
     "text": "快来https://t.co/nMjQcILxG5 享受AI基础设施",
     "author": {
