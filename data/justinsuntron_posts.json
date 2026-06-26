@@ -1,10 +1,38 @@
 [
   {
+    "id": "2070472069742277006",
+    "text": "RT @BitgetWallet: Excited to announce our integration with @BAI_AGI\n\nBuilt for the agentic era, B AI connects your wallet to AI infrastruct…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 19,
+      "replies": 0,
+      "quotes": 0,
+      "views": 20640,
+      "bookmarks": 0
+    },
+    "createdAt": "Fri Jun 26 11:39:43 +0000 2026",
+    "createdAtISO": "2026-06-26T11:39:43+00:00",
+    "createdAtLocal": "2026-06-26 19:39",
+    "isRetweet": true,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2070426835125760467",
     "text": "Keep going",
     "author": {
       "id": "902839045356744704",
-      "name": "H.E. Justin Sun \ud83d\udc68\u200d\ud83d\ude80 \ud83c\udf1e",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
       "screenName": "justinsuntron",
       "verified": true
     },
@@ -29,10 +57,10 @@
   },
   {
     "id": "2070424007019733007",
-    "text": "RT @HTX_DAO: 100 \u652f\u4e86\uff0c\u7834\u767e\u4e86\ud83d\udd25\nHTX Genesis Hackathon \u53c2\u8d5b\u961f\u4f0d\u6b63\u5f0f\u7a81\u7834 100 \u652f\uff01\n\n\u5c0f\u7f16\u592a\u6fc0\u52a8\u4e86\uff01\u770b\u7740\u8d8a\u6765\u8d8a\u591a builder \u5e26\u7740 idea\u3001\u4ee3\u7801\u548c\u9879\u76ee\u51b2\u8fdb\u8d5b\u573a\uff0c\u8fd9\u5206\u660e\u5c31\u662f AI \u00d7 Web3 \u521b\u65b0\u70ed\u5ea6\u6b63\u5728\u96c6\u7ed3\u554a\uff01\n\n\u522b\u518d\u5149\u987e\u7740\u56f4\u89c2\u2026",
+    "text": "RT @HTX_DAO: 100 支了，破百了🔥\nHTX Genesis Hackathon 参赛队伍正式突破 100 支！\n\n小编太激动了！看着越来越多 builder 带着 idea、代码和项目冲进赛场，这分明就是 AI × Web3 创新热度正在集结啊！\n\n别再光顾着围观…",
     "author": {
       "id": "902839045356744704",
-      "name": "H.E. Justin Sun \ud83d\udc68\u200d\ud83d\ude80 \ud83c\udf1e",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
       "screenName": "justinsuntron",
       "verified": true
     },
@@ -60,7 +88,7 @@
     "text": "Keep up the good work",
     "author": {
       "id": "902839045356744704",
-      "name": "H.E. Justin Sun \ud83d\udc68\u200d\ud83d\ude80 \ud83c\udf1e",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
       "screenName": "justinsuntron",
       "verified": true
     },
@@ -85,10 +113,10 @@
   },
   {
     "id": "2070373115780333921",
-    "text": "8 years and counting. TRON keeps building. \ud83d\udcaa",
+    "text": "8 years and counting. TRON keeps building. 💪",
     "author": {
       "id": "902839045356744704",
-      "name": "H.E. Justin Sun \ud83d\udc68\u200d\ud83d\ude80 \ud83c\udf1e",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
       "screenName": "justinsuntron",
       "verified": true
     },
@@ -812,41 +840,6 @@
     "quotedTweet": null
   },
   {
-    "id": "1905324113851547790",
-    "text": "From a visionary to a global force — honored to be featured on Forbes as Crypto’s Billionaire Barker. TRON’s journey continues, powering a global payment system with 300 million users and counting. Decentralization will prevail. https://t.co/m6FXcbrvMJ",
-    "author": {
-      "id": "902839045356744704",
-      "name": "H.E. Justin Sun 👨‍🚀 🌞",
-      "screenName": "justinsuntron",
-      "verified": true
-    },
-    "metrics": {
-      "likes": 7159,
-      "retweets": 1362,
-      "replies": 4030,
-      "quotes": 359,
-      "views": 5196622,
-      "bookmarks": 483
-    },
-    "createdAt": "Thu Mar 27 18:20:42 +0000 2025",
-    "createdAtISO": "2025-03-27T18:20:42+00:00",
-    "createdAtLocal": "2025-03-28 02:20",
-    "isRetweet": false,
-    "lang": "en",
-    "isQuote": false,
-    "isReply": false,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GnESLayasAApxh4.jpg",
-        "width": 710,
-        "height": 888
-      }
-    ],
-    "urls": [],
-    "quotedTweet": null
-  },
-  {
     "id": "2069270806383989154",
     "text": "Moving trillions, empowering billions.\n\nThe next chapter is agentic AI payments on TRON.",
     "author": {
@@ -1009,153 +1002,673 @@
       "screenName": "justinsuntron",
       "verified": true
     },
-    "metrics": {"likes": 0,"retweets": 0,"replies": 0,"quotes": 0,"views": 0,"bookmarks": 0},
+    "metrics": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 0,
+      "bookmarks": 0
+    },
     "createdAt": "Sat Jun 20 10:45:11 +0000 2026",
     "createdAtISO": "2026-06-20T10:45:11+00:00",
     "createdAtLocal": "2026-06-20 10:45",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "Since September 2024, T3 FCU has helped freeze more than $450M in illicit USDT while supporting investigations across 23 jurisdictions worldwide.","author": {"screenName": "T3_FCU","name": "T3 Financial Crime Unit"}}
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "Since September 2024, T3 FCU has helped freeze more than $450M in illicit USDT while supporting investigations across 23 jurisdictions worldwide.",
+      "author": {
+        "screenName": "T3_FCU",
+        "name": "T3 Financial Crime Unit"
+      }
+    }
   },
   {
-    "id": "2068278557034664215","text": "定投确实稳",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 0,"retweets": 0,"replies": 0,"quotes": 0,"views": 0,"bookmarks": 0},
-    "createdAt": "Sat Jun 20 10:23:29 +0000 2026","createdAtISO": "2026-06-20T10:23:29+00:00","createdAtLocal": "2026-06-20 10:23",
-    "isRetweet": false,"lang": "zh","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "定投最好标的 TRX（连孙哥都在定投）TRX可以说是定投最好的标的之一。","author": {"screenName": "0xMoon","name": "0xMoon"}}
+    "id": "2068278557034664215",
+    "text": "定投确实稳",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 0,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat Jun 20 10:23:29 +0000 2026",
+    "createdAtISO": "2026-06-20T10:23:29+00:00",
+    "createdAtLocal": "2026-06-20 10:23",
+    "isRetweet": false,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "定投最好标的 TRX（连孙哥都在定投）TRX可以说是定投最好的标的之一。",
+      "author": {
+        "screenName": "0xMoon",
+        "name": "0xMoon"
+      }
+    }
   },
   {
-    "id": "2068278136220086532","text": "币圈人手一个 https://t.co/nMjQcILxG5",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 0,"retweets": 0,"replies": 0,"quotes": 0,"views": 0,"bookmarks": 0},
-    "createdAt": "Sat Jun 20 10:21:49 +0000 2026","createdAtISO": "2026-06-20T10:21:49+00:00","createdAtLocal": "2026-06-20 10:21",
-    "isRetweet": false,"lang": "zh","isQuote": true,"isReply": false,"media": [],"urls": ["http://B.AI"],
-    "quotedTweet": {"text": "进阶孙学：在B.AI白嘘全球开源AI第一模型 MiniMax-M3","author": {"screenName": "0xMoon","name": "0xMoon"}}
+    "id": "2068278136220086532",
+    "text": "币圈人手一个 https://t.co/nMjQcILxG5",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 0,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat Jun 20 10:21:49 +0000 2026",
+    "createdAtISO": "2026-06-20T10:21:49+00:00",
+    "createdAtLocal": "2026-06-20 10:21",
+    "isRetweet": false,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [
+      "http://B.AI"
+    ],
+    "quotedTweet": {
+      "text": "进阶孙学：在B.AI白嘘全球开源AI第一模型 MiniMax-M3",
+      "author": {
+        "screenName": "0xMoon",
+        "name": "0xMoon"
+      }
+    }
   },
   {
-    "id": "2068277311825441049","text": "GLM-5.2全覆盖",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 0,"retweets": 0,"replies": 0,"quotes": 0,"views": 0,"bookmarks": 0},
-    "createdAt": "Sat Jun 20 10:18:32 +0000 2026","createdAtISO": "2026-06-20T10:18:32+00:00","createdAtLocal": "2026-06-20 10:18",
-    "isRetweet": false,"lang": "zh","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "GLM-5.2 现已正式登陆 B.AI 网页端！Web Chat 全面开放。","author": {"screenName": "BAI_AGI","name": "B.AI"}}
+    "id": "2068277311825441049",
+    "text": "GLM-5.2全覆盖",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 0,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat Jun 20 10:18:32 +0000 2026",
+    "createdAtISO": "2026-06-20T10:18:32+00:00",
+    "createdAtLocal": "2026-06-20 10:18",
+    "isRetweet": false,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "GLM-5.2 现已正式登陆 B.AI 网页端！Web Chat 全面开放。",
+      "author": {
+        "screenName": "BAI_AGI",
+        "name": "B.AI"
+      }
+    }
   },
   {
-    "id": "2068277165884690574","text": ".@MiniMax_AI M3 is. No.1 on https://t.co/nMjQcILxG5 leaderboard.",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 0,"retweets": 0,"replies": 0,"quotes": 0,"views": 0,"bookmarks": 0},
-    "createdAt": "Sat Jun 20 10:17:57 +0000 2026","createdAtISO": "2026-06-20T10:17:57+00:00","createdAtLocal": "2026-06-20 10:17",
-    "isRetweet": false,"lang": "en","isQuote": false,"isReply": false,"media": [],"urls": ["http://B.AI"]
+    "id": "2068277165884690574",
+    "text": ".@MiniMax_AI M3 is. No.1 on https://t.co/nMjQcILxG5 leaderboard.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 0,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat Jun 20 10:17:57 +0000 2026",
+    "createdAtISO": "2026-06-20T10:17:57+00:00",
+    "createdAtLocal": "2026-06-20 10:17",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "media": [],
+    "urls": [
+      "http://B.AI"
+    ]
   },
   {
-    "id": "2068239941423997171","text": "Keep moving",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 0,"retweets": 0,"replies": 0,"quotes": 0,"views": 0,"bookmarks": 0},
-    "createdAt": "Sat Jun 20 07:50:02 +0000 2026","createdAtISO": "2026-06-20T07:50:02+00:00","createdAtLocal": "2026-06-20 07:50",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "Tron Inc. (NASDAQ: TRON) acquired 155,057 TRX tokens today at an average price of $0.3225, further increasing its TRX treasury holdings to more than 701.4 million TRX in total.","author": {"screenName": "TRON_INC","name": "Tron Inc."}}
+    "id": "2068239941423997171",
+    "text": "Keep moving",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 0,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat Jun 20 07:50:02 +0000 2026",
+    "createdAtISO": "2026-06-20T07:50:02+00:00",
+    "createdAtLocal": "2026-06-20 07:50",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "Tron Inc. (NASDAQ: TRON) acquired 155,057 TRX tokens today at an average price of $0.3225, further increasing its TRX treasury holdings to more than 701.4 million TRX in total.",
+      "author": {
+        "screenName": "TRON_INC",
+        "name": "Tron Inc."
+      }
+    }
   },
   {
-    "id": "2067905672445034668","text": "Keep buying",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 121,"retweets": 13,"replies": 50,"quotes": 2,"views": 25706,"bookmarks": 8},
-    "createdAt": "Fri Jun 19 09:41:46 +0000 2026","createdAtISO": "2026-06-19T09:41:46+00:00","createdAtLocal": "2026-06-19 09:41",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"id": "2067791411400048654","text": "Tron Inc. (NASDAQ: TRON) acquired 155,735 TRX tokens today at an average price of $0.3211 further increasing its TRX treasury holdings to more than 701.2 million TRX in total.","author": {"screenName": "TRON_INC","name": "Tron Inc."}}
+    "id": "2067905672445034668",
+    "text": "Keep buying",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 121,
+      "retweets": 13,
+      "replies": 50,
+      "quotes": 2,
+      "views": 25706,
+      "bookmarks": 8
+    },
+    "createdAt": "Fri Jun 19 09:41:46 +0000 2026",
+    "createdAtISO": "2026-06-19T09:41:46+00:00",
+    "createdAtLocal": "2026-06-19 09:41",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "id": "2067791411400048654",
+      "text": "Tron Inc. (NASDAQ: TRON) acquired 155,735 TRX tokens today at an average price of $0.3211 further increasing its TRX treasury holdings to more than 701.2 million TRX in total.",
+      "author": {
+        "screenName": "TRON_INC",
+        "name": "Tron Inc."
+      }
+    }
   },
   {
-    "id": "2067876773619240988","text": "That's why #TRON keeps things moving.",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 95,"retweets": 16,"replies": 35,"quotes": 1,"views": 21256,"bookmarks": 2},
-    "createdAt": "Fri Jun 19 07:46:56 +0000 2026","createdAtISO": "2026-06-19T07:46:56+00:00","createdAtLocal": "2026-06-19 07:46",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "The best infrastructure isn't measured by attention. It's measured by use.","author": {"screenName": "trondao","name": "TRON DAO"}}
+    "id": "2067876773619240988",
+    "text": "That's why #TRON keeps things moving.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 95,
+      "retweets": 16,
+      "replies": 35,
+      "quotes": 1,
+      "views": 21256,
+      "bookmarks": 2
+    },
+    "createdAt": "Fri Jun 19 07:46:56 +0000 2026",
+    "createdAtISO": "2026-06-19T07:46:56+00:00",
+    "createdAtLocal": "2026-06-19 07:46",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "The best infrastructure isn't measured by attention. It's measured by use.",
+      "author": {
+        "screenName": "trondao",
+        "name": "TRON DAO"
+      }
+    }
   },
   {
-    "id": "2067638477672603986","text": "https://t.co/nMjQcILxG5 白嘴机会抓紧！",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 64,"retweets": 9,"replies": 85,"quotes": 1,"views": 23792,"bookmarks": 9},
-    "createdAt": "Thu Jun 18 16:00:02 +0000 2026","createdAtISO": "2026-06-18T16:00:02+00:00","createdAtLocal": "2026-06-18 16:00",
-    "isRetweet": false,"lang": "zh","isQuote": true,"isReply": false,"media": [],"urls": ["http://B.AI"],
-    "quotedTweet": {"text": "孙哥搭台，MiniMax 请序，在 B.AI 白嘴世界第一开源模型。","author": {"screenName": "Blackpink_Ox66","name": "OxPink"}}
+    "id": "2067638477672603986",
+    "text": "https://t.co/nMjQcILxG5 白嘴机会抓紧！",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 64,
+      "retweets": 9,
+      "replies": 85,
+      "quotes": 1,
+      "views": 23792,
+      "bookmarks": 9
+    },
+    "createdAt": "Thu Jun 18 16:00:02 +0000 2026",
+    "createdAtISO": "2026-06-18T16:00:02+00:00",
+    "createdAtLocal": "2026-06-18 16:00",
+    "isRetweet": false,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [
+      "http://B.AI"
+    ],
+    "quotedTweet": {
+      "text": "孙哥搭台，MiniMax 请序，在 B.AI 白嘴世界第一开源模型。",
+      "author": {
+        "screenName": "Blackpink_Ox66",
+        "name": "OxPink"
+      }
+    }
   },
   {
-    "id": "2067633550736937037","text": "Built by https://t.co/OR8GZDKidp for long running tasks, GLM 5.2 combines frontier capabilities with open weights and an industry leading 1M token context window.",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 94,"retweets": 13,"replies": 40,"quotes": 8,"views": 23650,"bookmarks": 2},
-    "createdAt": "Thu Jun 18 15:40:27 +0000 2026","createdAtISO": "2026-06-18T15:40:27+00:00","createdAtLocal": "2026-06-18 15:40",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": ["http://Z.ai"],
-    "quotedTweet": {"text": "GLM 5.2 is Now Available on B.AI API!","author": {"screenName": "BAI_AGI","name": "B.AI"}}
+    "id": "2067633550736937037",
+    "text": "Built by https://t.co/OR8GZDKidp for long running tasks, GLM 5.2 combines frontier capabilities with open weights and an industry leading 1M token context window.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 94,
+      "retweets": 13,
+      "replies": 40,
+      "quotes": 8,
+      "views": 23650,
+      "bookmarks": 2
+    },
+    "createdAt": "Thu Jun 18 15:40:27 +0000 2026",
+    "createdAtISO": "2026-06-18T15:40:27+00:00",
+    "createdAtLocal": "2026-06-18 15:40",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [
+      "http://Z.ai"
+    ],
+    "quotedTweet": {
+      "text": "GLM 5.2 is Now Available on B.AI API!",
+      "author": {
+        "screenName": "BAI_AGI",
+        "name": "B.AI"
+      }
+    }
   },
   {
-    "id": "2067633452565041633","text": "GLM-5.2 登陆 https://t.co/nMjQcILxG5 啊",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 65,"retweets": 4,"replies": 40,"quotes": 1,"views": 24681,"bookmarks": 3},
-    "createdAt": "Thu Jun 18 15:40:04 +0000 2026","createdAtISO": "2026-06-18T15:40:04+00:00","createdAtLocal": "2026-06-18 15:40",
-    "isRetweet": false,"lang": "zh","isQuote": true,"isReply": false,"media": [],"urls": ["http://B.AI"],
-    "quotedTweet": {"text": "GLM-5.2 现已正式登陆 B.AI API!","author": {"screenName": "BAI_AGI","name": "B.AI"}}
+    "id": "2067633452565041633",
+    "text": "GLM-5.2 登陆 https://t.co/nMjQcILxG5 啊",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 65,
+      "retweets": 4,
+      "replies": 40,
+      "quotes": 1,
+      "views": 24681,
+      "bookmarks": 3
+    },
+    "createdAt": "Thu Jun 18 15:40:04 +0000 2026",
+    "createdAtISO": "2026-06-18T15:40:04+00:00",
+    "createdAtLocal": "2026-06-18 15:40",
+    "isRetweet": false,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [
+      "http://B.AI"
+    ],
+    "quotedTweet": {
+      "text": "GLM-5.2 现已正式登陆 B.AI API!",
+      "author": {
+        "screenName": "BAI_AGI",
+        "name": "B.AI"
+      }
+    }
   },
   {
-    "id": "2067587173306765387","text": "Clarity brings the next wave of crypto adoption.",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 41,"retweets": 5,"replies": 20,"quotes": 0,"views": 6529,"bookmarks": 1},
-    "createdAt": "Thu Jun 18 12:36:10 +0000 2026","createdAtISO": "2026-06-18T12:36:10+00:00","createdAtLocal": "2026-06-18 12:36",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "The era of regulatory ambiguity in digital assets is ending.","author": {"screenName": "AdrianWall8395","name": "Adrian Wall"}}
+    "id": "2067587173306765387",
+    "text": "Clarity brings the next wave of crypto adoption.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 41,
+      "retweets": 5,
+      "replies": 20,
+      "quotes": 0,
+      "views": 6529,
+      "bookmarks": 1
+    },
+    "createdAt": "Thu Jun 18 12:36:10 +0000 2026",
+    "createdAtISO": "2026-06-18T12:36:10+00:00",
+    "createdAtLocal": "2026-06-18 12:36",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "The era of regulatory ambiguity in digital assets is ending.",
+      "author": {
+        "screenName": "AdrianWall8395",
+        "name": "Adrian Wall"
+      }
+    }
   },
   {
-    "id": "2067184675211370528","text": "Protect users. Fight crime.",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 62,"retweets": 12,"replies": 41,"quotes": 1,"views": 12503,"bookmarks": 2},
-    "createdAt": "Wed Jun 17 09:56:47 +0000 2026","createdAtISO": "2026-06-17T09:56:47+00:00","createdAtLocal": "2026-06-17 09:56",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "Since its launch in September 2024, T3 FCU has analyzed millions of transactions globally, monitored more than $3 billion USD in total volume, and supported the freezing of over $450 million USD in illicit assets.","author": {"screenName": "T3_FCU","name": "T3 Financial Crime Unit"}}
+    "id": "2067184675211370528",
+    "text": "Protect users. Fight crime.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 62,
+      "retweets": 12,
+      "replies": 41,
+      "quotes": 1,
+      "views": 12503,
+      "bookmarks": 2
+    },
+    "createdAt": "Wed Jun 17 09:56:47 +0000 2026",
+    "createdAtISO": "2026-06-17T09:56:47+00:00",
+    "createdAtLocal": "2026-06-17 09:56",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "Since its launch in September 2024, T3 FCU has analyzed millions of transactions globally, monitored more than $3 billion USD in total volume, and supported the freezing of over $450 million USD in illicit assets.",
+      "author": {
+        "screenName": "T3_FCU",
+        "name": "T3 Financial Crime Unit"
+      }
+    }
   },
   {
-    "id": "2067140059418234889","text": "See you in HK! 🇭🇰",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 170,"retweets": 26,"replies": 89,"quotes": 2,"views": 24464,"bookmarks": 3},
-    "createdAt": "Wed Jun 17 06:59:30 +0000 2026","createdAtISO": "2026-06-17T06:59:30+00:00","createdAtLocal": "2026-06-17 06:59",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "BREAKING: LEGENDARY JUSTIN SUN TO SPEAK AT BITCOIN ASIA 2026","author": {"screenName": "Bitcoinconfasia","name": "Bitcoin Asia"}}
+    "id": "2067140059418234889",
+    "text": "See you in HK! 🇭🇰",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 170,
+      "retweets": 26,
+      "replies": 89,
+      "quotes": 2,
+      "views": 24464,
+      "bookmarks": 3
+    },
+    "createdAt": "Wed Jun 17 06:59:30 +0000 2026",
+    "createdAtISO": "2026-06-17T06:59:30+00:00",
+    "createdAtLocal": "2026-06-17 06:59",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "BREAKING: LEGENDARY JUSTIN SUN TO SPEAK AT BITCOIN ASIA 2026",
+      "author": {
+        "screenName": "Bitcoinconfasia",
+        "name": "Bitcoin Asia"
+      }
+    }
   },
   {
-    "id": "2067133365606859085","text": "Keep going",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 82,"retweets": 7,"replies": 49,"quotes": 1,"views": 19591,"bookmarks": 0},
-    "createdAt": "Wed Jun 17 06:32:54 +0000 2026","createdAtISO": "2026-06-17T06:32:54+00:00","createdAtLocal": "2026-06-17 06:32",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "Tron Inc. (NASDAQ: TRON) acquired 156,979 TRX tokens today at an average price of $0.3185 further increasing its TRX treasury holdings to more than 700.9 million TRX in total.","author": {"screenName": "TRON_INC","name": "Tron Inc."}}
+    "id": "2067133365606859085",
+    "text": "Keep going",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 82,
+      "retweets": 7,
+      "replies": 49,
+      "quotes": 1,
+      "views": 19591,
+      "bookmarks": 0
+    },
+    "createdAt": "Wed Jun 17 06:32:54 +0000 2026",
+    "createdAtISO": "2026-06-17T06:32:54+00:00",
+    "createdAtLocal": "2026-06-17 06:32",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "Tron Inc. (NASDAQ: TRON) acquired 156,979 TRX tokens today at an average price of $0.3185 further increasing its TRX treasury holdings to more than 700.9 million TRX in total.",
+      "author": {
+        "screenName": "TRON_INC",
+        "name": "Tron Inc."
+      }
+    }
   },
   {
-    "id": "2066895222655922382","text": "继续加油！",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 146,"retweets": 16,"replies": 92,"quotes": 2,"views": 37437,"bookmarks": 1},
-    "createdAt": "Tue Jun 16 14:46:36 +0000 2026","createdAtISO": "2026-06-16T14:46:36+00:00","createdAtLocal": "2026-06-16 14:46",
-    "isRetweet": false,"lang": "zh","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "HTX May 2026 monthly report","author": {"screenName": "HuobiGlobal","name": "火庐HTX"}}
+    "id": "2066895222655922382",
+    "text": "继续加油！",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 146,
+      "retweets": 16,
+      "replies": 92,
+      "quotes": 2,
+      "views": 37437,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Jun 16 14:46:36 +0000 2026",
+    "createdAtISO": "2026-06-16T14:46:36+00:00",
+    "createdAtLocal": "2026-06-16 14:46",
+    "isRetweet": false,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "HTX May 2026 monthly report",
+      "author": {
+        "screenName": "HuobiGlobal",
+        "name": "火庐HTX"
+      }
+    }
   },
   {
-    "id": "2066796059985424646","text": "More builders, more ideas. Great to see #TRON Academy growing with the next generation during @ETHGlobal.",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 72,"retweets": 13,"replies": 50,"quotes": 1,"views": 17678,"bookmarks": 1},
-    "createdAt": "Tue Jun 16 08:12:34 +0000 2026","createdAtISO": "2026-06-16T08:12:34+00:00","createdAtLocal": "2026-06-16 16:12",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "TRON Academy at ETHGlobal New York","author": {"screenName": "trondao","name": "TRON DAO"}}
+    "id": "2066796059985424646",
+    "text": "More builders, more ideas. Great to see #TRON Academy growing with the next generation during @ETHGlobal.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 72,
+      "retweets": 13,
+      "replies": 50,
+      "quotes": 1,
+      "views": 17678,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Jun 16 08:12:34 +0000 2026",
+    "createdAtISO": "2026-06-16T08:12:34+00:00",
+    "createdAtLocal": "2026-06-16 16:12",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "TRON Academy at ETHGlobal New York",
+      "author": {
+        "screenName": "trondao",
+        "name": "TRON DAO"
+      }
+    }
   },
   {
-    "id": "2066477142230315506","text": "RT @MEXC: Hold $USDD. Earn automatically. 💰\n\nEstimated 5% APR, no lock-up, and full flexibility.\n\nThat's passive income made simple. 👇",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 0,"retweets": 32,"replies": 0,"quotes": 0,"views": 14,"bookmarks": 0},
-    "createdAt": "Mon Jun 15 11:05:18 +0000 2026","createdAtISO": "2026-06-15T11:05:18+00:00","createdAtLocal": "2026-06-15 19:05",
-    "isRetweet": true,"lang": "en","isQuote": false,"isReply": false,"media": [],"urls": []
+    "id": "2066477142230315506",
+    "text": "RT @MEXC: Hold $USDD. Earn automatically. 💰\n\nEstimated 5% APR, no lock-up, and full flexibility.\n\nThat's passive income made simple. 👇",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 32,
+      "replies": 0,
+      "quotes": 0,
+      "views": 14,
+      "bookmarks": 0
+    },
+    "createdAt": "Mon Jun 15 11:05:18 +0000 2026",
+    "createdAtISO": "2026-06-15T11:05:18+00:00",
+    "createdAtLocal": "2026-06-15 19:05",
+    "isRetweet": true,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "media": [],
+    "urls": []
   },
   {
-    "id": "2066467452662501792","text": "Transparent pricing with flexible options and discounts up to 80% OFF. Perfect for testing and cost-sensitive use cases.",
-    "author": {"id": "902839045356744704","name": "H.E. Justin Sun 👨‍🚀 🌞","screenName": "justinsuntron","verified": true},
-    "metrics": {"likes": 28,"retweets": 5,"replies": 24,"quotes": 1,"views": 7320,"bookmarks": 1},
-    "createdAt": "Mon Jun 15 10:26:48 +0000 2026","createdAtISO": "2026-06-15T10:26:48+00:00","createdAtLocal": "2026-06-15 18:26",
-    "isRetweet": false,"lang": "en","isQuote": true,"isReply": false,"media": [],"urls": [],
-    "quotedTweet": {"text": "B.AI Custom Provider Mode now live!","author": {"screenName": "BAI_AGI","name": "B.AI"}}
+    "id": "2066467452662501792",
+    "text": "Transparent pricing with flexible options and discounts up to 80% OFF. Perfect for testing and cost-sensitive use cases.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 28,
+      "retweets": 5,
+      "replies": 24,
+      "quotes": 1,
+      "views": 7320,
+      "bookmarks": 1
+    },
+    "createdAt": "Mon Jun 15 10:26:48 +0000 2026",
+    "createdAtISO": "2026-06-15T10:26:48+00:00",
+    "createdAtLocal": "2026-06-15 18:26",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": {
+      "text": "B.AI Custom Provider Mode now live!",
+      "author": {
+        "screenName": "BAI_AGI",
+        "name": "B.AI"
+      }
+    }
+  },
+  {
+    "id": "1905324113851547790",
+    "text": "From a visionary to a global force — honored to be featured on Forbes as Crypto’s Billionaire Barker. TRON’s journey continues, powering a global payment system with 300 million users and counting. Decentralization will prevail. https://t.co/m6FXcbrvMJ",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 7159,
+      "retweets": 1362,
+      "replies": 4030,
+      "quotes": 359,
+      "views": 5196622,
+      "bookmarks": 483
+    },
+    "createdAt": "Thu Mar 27 18:20:42 +0000 2025",
+    "createdAtISO": "2025-03-27T18:20:42+00:00",
+    "createdAtLocal": "2025-03-28 02:20",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnESLayasAApxh4.jpg",
+        "width": 710,
+        "height": 888
+      }
+    ],
+    "urls": [],
+    "quotedTweet": null
   }
 ]
