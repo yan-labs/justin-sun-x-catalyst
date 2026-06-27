@@ -1,5 +1,34 @@
 [
   {
+    "id": "2070702175416893702",
+    "text": "Moving Trillions, Empowering Billions.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 15,
+      "retweets": 1,
+      "replies": 17,
+      "quotes": 0,
+      "views": 19823,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat Jun 27 02:54:05 +0000 2026",
+    "createdAtISO": "2026-06-27T02:54:05+00:00",
+    "createdAtLocal": "2026-06-27 10:54",
+    "isRetweet": false,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "media": [],
+    "urls": [],
+    "quotedTweet": null
+  },
+  {
     "id": "2070472069742277006",
     "text": "RT @BitgetWallet: Excited to announce our integration with @BAI_AGI\n\nBuilt for the agentic era, B AI connects your wallet to AI infrastruct…",
     "author": {
