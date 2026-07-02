@@ -166,7 +166,7 @@ def write_csv(rows):
         "text",
     ]
     with open(os.path.join(DATA, "justinsuntron_posts.csv"), "w", newline="") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=cols)
+        writer = csv.DictWriter(csvfile, fieldnames=cols, lineterminator="\n")
         writer.writeheader()
         for post in rows:
             metrics = post.get("metrics") or {}
@@ -251,4 +251,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
