@@ -1,4 +1,4 @@
-Total posts: 117
+Total posts: 118
 Distinct $tickers: 4
 
 ticker  mentions  first_seen  last_seen
