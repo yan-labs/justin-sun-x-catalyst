@@ -1,5 +1,166 @@
 [
   {
+    "id": "2074578867084550235",
+    "text": "@wublockchain12 不是攻击",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 3,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "views": 1320,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jul 07 19:38:40 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": true,
+    "inReplyToTweetId": "2074577644365213770",
+    "inReplyToUserId": "1428246848301502464",
+    "conversationId": "2074577644365213770",
+    "createdAtISO": "2026-07-07T19:38:40+00:00",
+    "createdAtLocal": "2026-07-08 03:38"
+  },
+  {
+    "id": "2074578678810632453",
+    "text": "团队已通知我，他们已完成BTTC Bridge Sunset Program（BTTC跨链桥退役计划）。未来，BitTorrent团队将更加专注于去中心化AI以及BitTorrent去中心化协议的维护。所有资金都是安全的，用户可通过合作的中心化交易所继续存取BTTC Bridge的资金。@BitTorrent",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 27,
+      "retweets": 2,
+      "replies": 14,
+      "quotes": 1,
+      "views": 19527,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Jul 07 19:37:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2074578678810632453",
+    "createdAtISO": "2026-07-07T19:37:55+00:00",
+    "createdAtLocal": "2026-07-08 03:37"
+  },
+  {
+    "id": "2074577979087499569",
+    "text": "@wublockchain12 The team has notified me that they have completed the BTTC Bridge Sunset Program. Going forward, the BitTorrent team will focus more on decentralized AI and the maintenance of the BitTorrent decentralized protocol. All funds are safe, and users can continue to deposit and",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 4,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "views": 354,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jul 07 19:35:08 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074577644365213770",
+    "inReplyToUserId": "1428246848301502464",
+    "conversationId": "2074577644365213770",
+    "createdAtISO": "2026-07-07T19:35:08+00:00",
+    "createdAtLocal": "2026-07-08 03:35"
+  },
+  {
+    "id": "2074577650434400538",
+    "text": "@blockaid_ @BitTorrent The team has notified me that they have completed the BTTC Bridge Sunset Program. Going forward, the BitTorrent team will focus more on decentralized AI and the maintenance of the BitTorrent decentralized protocol. All funds are safe, and users can continue to deposit and",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 13,
+      "retweets": 3,
+      "replies": 3,
+      "quotes": 2,
+      "views": 1650,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jul 07 19:33:50 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2074575316882747577",
+    "inReplyToUserId": "1625076902237970434",
+    "conversationId": "2074575316882747577",
+    "createdAtISO": "2026-07-07T19:33:50+00:00",
+    "createdAtLocal": "2026-07-08 03:33"
+  },
+  {
+    "id": "2074576942557458850",
+    "text": "The team has notified me that they have completed the BTTC Bridge Sunset Program. Going forward, the BitTorrent team will focus more on decentralized AI and the maintenance of the BitTorrent decentralized protocol. All funds are safe, and users can continue to deposit and",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 53,
+      "retweets": 8,
+      "replies": 23,
+      "quotes": 1,
+      "views": 23965,
+      "bookmarks": 2
+    },
+    "createdAt": "Tue Jul 07 19:31:01 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2074576942557458850",
+    "createdAtISO": "2026-07-07T19:31:01+00:00",
+    "createdAtLocal": "2026-07-08 03:31"
+  },
+  {
     "id": "2074551714041270763",
     "text": "The TRON DeFi Carnival is LIVE",
     "author": {
