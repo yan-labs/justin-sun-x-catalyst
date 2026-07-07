@@ -1,7 +1,8 @@
-Total posts: 92
-Distinct $tickers: 3
+Total posts: 111
+Distinct $tickers: 4
 
 ticker  mentions  first_seen  last_seen
-TRX           1   2026-07-02  2026-07-02
+TRX           2   2026-07-02  2026-07-07
+ETH           1   2026-07-07  2026-07-07
 U             1   2026-06-23  2026-06-23
 USDD          1   2026-06-15  2026-06-15
