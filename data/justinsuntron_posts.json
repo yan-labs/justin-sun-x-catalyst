@@ -1,5 +1,67 @@
 [
   {
+    "id": "2075842916409647377",
+    "text": "强势增长",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 34,
+      "retweets": 1,
+      "replies": 33,
+      "quotes": 0,
+      "views": 24883,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat Jul 11 07:21:33 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2075842916409647377",
+    "createdAtISO": "2026-07-11T07:21:33+00:00",
+    "createdAtLocal": "2026-07-11 15:21"
+  },
+  {
+    "id": "2075842139846844591",
+    "text": "JST终于去零",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 35,
+      "retweets": 1,
+      "replies": 31,
+      "quotes": 1,
+      "views": 27109,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat Jul 11 07:18:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "ja",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2075842139846844591",
+    "createdAtISO": "2026-07-11T07:18:28+00:00",
+    "createdAtLocal": "2026-07-11 15:18"
+  },
+  {
     "id": "2075792610124554679",
     "text": "RT @EmberCN: 最近几个月，因为 Crypto 版块整体行情萎靡，USDT 跟 USDC 两大头部稳定币发行量减少了约 $139 亿：其中 USDT 减少约 $74 亿、USDC 减少约 $65 亿。\n\n不过发行量的些许回落并没有影响稳定币在多个金融场景里的迅速增长的…",
     "author": {
