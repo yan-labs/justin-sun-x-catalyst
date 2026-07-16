@@ -1,5 +1,324 @@
 [
   {
+    "id": "2077800125028782493",
+    "text": "越来越好",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 17,
+      "retweets": 0,
+      "replies": 28,
+      "quotes": 1,
+      "views": 25794,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jul 16 16:58:48 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2077800125028782493",
+    "createdAtISO": "2026-07-16T16:58:48+00:00",
+    "createdAtLocal": "2026-07-17 00:58"
+  },
+  {
+    "id": "2077779571626348997",
+    "text": "RT @Meta8Mate: 交易挖矿，TradFi合约，Duang！HTX @HTX_Global  首期TradFi合约交易挖矿，没想到吧，2026年还能看到交易挖矿+回购销毁平台币的模式，有时候商战就是这么朴实无华。… https://t.co/I4VP2Quy8k",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 3,
+      "replies": 0,
+      "quotes": 0,
+      "views": 22104,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jul 16 15:37:07 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWDBKua4AAJ7vc.jpg",
+        "width": 1884,
+        "height": 2823
+      }
+    ],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2077779571626348997",
+    "createdAtISO": "2026-07-16T15:37:07+00:00",
+    "createdAtLocal": "2026-07-16 23:37"
+  },
+  {
+    "id": "2077717173406232624",
+    "text": "RT @trondao: Expanding the connection between digital assets and everyday finance.\n\nThis latest integration makes it easier for users to mo…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 34,
+      "replies": 0,
+      "quotes": 0,
+      "views": 21692,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jul 16 11:29:10 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2077717173406232624",
+    "createdAtISO": "2026-07-16T11:29:10+00:00",
+    "createdAtLocal": "2026-07-16 19:29"
+  },
+  {
+    "id": "2077678753761886343",
+    "text": "RT @0xMoon: Anchorage Digital ✖️TRX：机构准备跑步进场了！\n \n看到CMC发的一条帖子，Anchorage Digital为机构客户开通了原生TRX质押，同时同步支持TRC-20资产托管。这件事情其实是非常利好TRX的。\n \n我先跟大家解释一下…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 6,
+      "replies": 0,
+      "quotes": 0,
+      "views": 25847,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jul 16 08:56:30 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2077678753761886343",
+    "createdAtISO": "2026-07-16T08:56:30+00:00",
+    "createdAtLocal": "2026-07-16 16:56"
+  },
+  {
+    "id": "2077649396246913445",
+    "text": "@Hanuo96 大神你是懂行的，我真的一年级的时候去修了高数A，几周后扛不下来退了 😂",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 46,
+      "retweets": 0,
+      "replies": 7,
+      "quotes": 0,
+      "views": 8487,
+      "bookmarks": 1
+    },
+    "createdAt": "Thu Jul 16 06:59:51 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2077538727686185164",
+    "inReplyToUserId": "205207735",
+    "conversationId": "2077424227570139222",
+    "createdAtISO": "2026-07-16T06:59:51+00:00",
+    "createdAtLocal": "2026-07-16 14:59"
+  },
+  {
+    "id": "2077648519641641409",
+    "text": "加入孙学领悟\n凡是过往，皆为序章\nWhat’s past is prologue\n永远向前看",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 201,
+      "retweets": 20,
+      "replies": 108,
+      "quotes": 6,
+      "views": 87398,
+      "bookmarks": 30
+    },
+    "createdAt": "Thu Jul 16 06:56:22 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2077648519641641409",
+    "createdAtISO": "2026-07-16T06:56:22+00:00",
+    "createdAtLocal": "2026-07-16 14:56"
+  },
+  {
+    "id": "2077647330598388047",
+    "text": "确实都是07的，而且我真的一年级的时候去修了数学分析，几周后扛不下来退了 😂",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 360,
+      "retweets": 21,
+      "replies": 133,
+      "quotes": 4,
+      "views": 148227,
+      "bookmarks": 45
+    },
+    "createdAt": "Thu Jul 16 06:51:39 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2077647330598388047",
+    "createdAtISO": "2026-07-16T06:51:39+00:00",
+    "createdAtLocal": "2026-07-16 14:51"
+  },
+  {
+    "id": "2077646372212498649",
+    "text": "孙迟但到",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 69,
+      "retweets": 6,
+      "replies": 67,
+      "quotes": 5,
+      "views": 54497,
+      "bookmarks": 1
+    },
+    "createdAt": "Thu Jul 16 06:47:50 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2077646372212498649",
+    "createdAtISO": "2026-07-16T06:47:50+00:00",
+    "createdAtLocal": "2026-07-16 14:47"
+  },
+  {
+    "id": "2077645794623230065",
+    "text": "力度真的大",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 73,
+      "retweets": 3,
+      "replies": 35,
+      "quotes": 0,
+      "views": 63401,
+      "bookmarks": 1
+    },
+    "createdAt": "Thu Jul 16 06:45:32 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "ja",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2077645794623230065",
+    "createdAtISO": "2026-07-16T06:45:32+00:00",
+    "createdAtLocal": "2026-07-16 14:45"
+  },
+  {
+    "id": "2077587391934799893",
+    "text": "RT @trondao: U.S. crypto policy is entering a defining period. 🇺🇸 I\n\nIn the latest episode of Onchain, Honestly!, @AdrianWall8395 discusses…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 21,
+      "replies": 0,
+      "quotes": 0,
+      "views": 21579,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Jul 16 02:53:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2077587391934799893",
+    "createdAtISO": "2026-07-16T02:53:28+00:00",
+    "createdAtLocal": "2026-07-16 10:53"
+  },
+  {
     "id": "2077424227570139222",
     "text": "“我的同学王虹邓煜” https://t.co/ISdAOnR15K",
     "author": {
