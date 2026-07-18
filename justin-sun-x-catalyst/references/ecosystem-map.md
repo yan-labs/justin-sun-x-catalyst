@@ -68,10 +68,13 @@ Source links for refreshing facts:
 
 **HTX / Huobi**
 - Triggers: HTX, Huobi, listing, reserves, security incident, proof of reserves,
-  fee campaign.
+  fee campaign, TradFi contracts, tokenized equities, or U.S.-stock access.
 - First read: listed asset or platform token if applicable.
 - Second read: TRX if the campaign is TRON-native.
 - Caveat: exchange solvency/security language deserves high risk labeling.
+  For TradFi or stock promotions, verify whether the product is a share,
+  derivative, tokenized claim, or synthetic contract plus its venue, custody,
+  jurisdiction, and redemption terms; never treat it as broker account truth.
 
 **Poloniex**
 - Triggers: Poloniex, listing, hack, proof of reserves, liquidity campaign.
