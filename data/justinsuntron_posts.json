@@ -1,5 +1,191 @@
 [
   {
+    "id": "2079144734086537306",
+    "text": "TRON is becoming the settlement layer for global payments.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 77,
+      "retweets": 5,
+      "replies": 46,
+      "quotes": 3,
+      "views": 33350,
+      "bookmarks": 0
+    },
+    "createdAt": "Mon Jul 20 10:01:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2079144734086537306",
+    "createdAtISO": "2026-07-20T10:01:47+00:00",
+    "createdAtLocal": "2026-07-20 18:01"
+  },
+  {
+    "id": "2079119950896349564",
+    "text": "RT @trondao: Join @SamElfa0 at @StanfordSBA on Thursday, July 30th, as he discusses how stablecoins are transforming real-world payments an…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 21,
+      "replies": 0,
+      "quotes": 0,
+      "views": 18975,
+      "bookmarks": 0
+    },
+    "createdAt": "Mon Jul 20 08:23:19 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2079119950896349564",
+    "createdAtISO": "2026-07-20T08:23:19+00:00",
+    "createdAtLocal": "2026-07-20 16:23"
+  },
+  {
+    "id": "2079086544238026970",
+    "text": "RT @DSAForg: https://t.co/rmuW7OGA0h",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 7,
+      "replies": 0,
+      "quotes": 0,
+      "views": 22765,
+      "bookmarks": 0
+    },
+    "createdAt": "Mon Jul 20 06:10:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "zxx",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2079086544238026970",
+    "createdAtISO": "2026-07-20T06:10:34+00:00",
+    "createdAtLocal": "2026-07-20 14:10"
+  },
+  {
+    "id": "2079052123380310525",
+    "text": "TRON in every corner of the world. ⚽️",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 86,
+      "retweets": 11,
+      "replies": 54,
+      "quotes": 4,
+      "views": 50154,
+      "bookmarks": 0
+    },
+    "createdAt": "Mon Jul 20 03:53:47 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2079052123380310525",
+    "createdAtISO": "2026-07-20T03:53:47+00:00",
+    "createdAtLocal": "2026-07-20 11:53"
+  },
+  {
+    "id": "2078759073009521148",
+    "text": "再接再厉",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 116,
+      "retweets": 17,
+      "replies": 108,
+      "quotes": 3,
+      "views": 76043,
+      "bookmarks": 2
+    },
+    "createdAt": "Sun Jul 19 08:29:19 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2078759073009521148",
+    "createdAtISO": "2026-07-19T08:29:19+00:00",
+    "createdAtLocal": "2026-07-19 16:29"
+  },
+  {
+    "id": "2078758646620770702",
+    "text": "Keep going",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 92,
+      "retweets": 15,
+      "replies": 38,
+      "quotes": 2,
+      "views": 65385,
+      "bookmarks": 1
+    },
+    "createdAt": "Sun Jul 19 08:27:37 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2078758646620770702",
+    "createdAtISO": "2026-07-19T08:27:37+00:00",
+    "createdAtLocal": "2026-07-19 16:27"
+  },
+  {
     "id": "2078491737337778320",
     "text": "https://t.co/nMjQcILxG5 全部支持",
     "author": {
