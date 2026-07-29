@@ -1,5 +1,253 @@
 [
   {
+    "id": "2082132199986577498",
+    "text": "Trust wallet on Tron",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 147,
+      "retweets": 14,
+      "replies": 53,
+      "quotes": 6,
+      "views": 53200,
+      "bookmarks": 1
+    },
+    "createdAt": "Tue Jul 28 15:52:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2082132199986577498",
+    "createdAtISO": "2026-07-28T15:52:55+00:00",
+    "createdAtLocal": "2026-07-28 23:52"
+  },
+  {
+    "id": "2082093516449349931",
+    "text": "RT @trondao: Stablecoins are becoming a central point of focus across traditional finance and onchain markets.\n\nWith TRON processing more t…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 32,
+      "replies": 0,
+      "quotes": 0,
+      "views": 19481,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jul 28 13:19:12 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2082093516449349931",
+    "createdAtISO": "2026-07-28T13:19:12+00:00",
+    "createdAtLocal": "2026-07-28 21:19"
+  },
+  {
+    "id": "2082072574503366911",
+    "text": "TRON keeps moving billions.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 127,
+      "retweets": 15,
+      "replies": 43,
+      "quotes": 1,
+      "views": 63964,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jul 28 11:55:59 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2082072574503366911",
+    "createdAtISO": "2026-07-28T11:55:59+00:00",
+    "createdAtLocal": "2026-07-28 19:55"
+  },
+  {
+    "id": "2082042296019886246",
+    "text": "Keep going",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 117,
+      "retweets": 9,
+      "replies": 40,
+      "quotes": 3,
+      "views": 100160,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jul 28 09:55:40 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2082042296019886246",
+    "createdAtISO": "2026-07-28T09:55:40+00:00",
+    "createdAtLocal": "2026-07-28 17:55"
+  },
+  {
+    "id": "2082035160774779212",
+    "text": "RT @DSAForg: While Washington stays gridlocked on the Clarity Act, statehouses are writing America's crypto policy in real time. Five state…",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 0,
+      "retweets": 2,
+      "replies": 0,
+      "quotes": 0,
+      "views": 24078,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jul 28 09:27:19 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": true,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2082035160774779212",
+    "createdAtISO": "2026-07-28T09:27:19+00:00",
+    "createdAtLocal": "2026-07-28 17:27"
+  },
+  {
+    "id": "2082020374737526935",
+    "text": "More adoption",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 131,
+      "retweets": 12,
+      "replies": 43,
+      "quotes": 4,
+      "views": 81783,
+      "bookmarks": 0
+    },
+    "createdAt": "Tue Jul 28 08:28:34 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2082020374737526935",
+    "createdAtISO": "2026-07-28T08:28:34+00:00",
+    "createdAtLocal": "2026-07-28 16:28"
+  },
+  {
+    "id": "2081992493651120564",
+    "text": "Another step toward expanding regulated market access to TRX in the U.S. 🇺🇸",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 134,
+      "retweets": 14,
+      "replies": 47,
+      "quotes": 5,
+      "views": 96513,
+      "bookmarks": 2
+    },
+    "createdAt": "Tue Jul 28 06:37:46 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2081992493651120564",
+    "createdAtISO": "2026-07-28T06:37:46+00:00",
+    "createdAtLocal": "2026-07-28 14:37"
+  },
+  {
+    "id": "2081953409406820392",
+    "text": "See you in Vietnam 🇻🇳",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 253,
+      "retweets": 25,
+      "replies": 81,
+      "quotes": 10,
+      "views": 106607,
+      "bookmarks": 4
+    },
+    "createdAt": "Tue Jul 28 04:02:28 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2081953409406820392",
+    "createdAtISO": "2026-07-28T04:02:28+00:00",
+    "createdAtLocal": "2026-07-28 12:02"
+  },
+  {
     "id": "2081714764951257425",
     "text": "RT @DSAForg: Today, our Managing Director, @AdrianWall8395, will join the @DefiantNews's live discussion on the Clarity Act, addressing thi…",
     "author": {
