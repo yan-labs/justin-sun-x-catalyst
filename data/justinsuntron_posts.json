@@ -1,5 +1,98 @@
 [
   {
+    "id": "2088987164063498596",
+    "text": "关注小TRX JST",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 94,
+      "retweets": 4,
+      "replies": 60,
+      "quotes": 1,
+      "views": 87496,
+      "bookmarks": 4
+    },
+    "createdAt": "Sun Aug 16 13:52:06 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "ja",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2088987164063498596",
+    "createdAtISO": "2026-08-16T13:52:06+00:00",
+    "createdAtLocal": "2026-08-16 21:52"
+  },
+  {
+    "id": "2088909709847973989",
+    "text": "C2C现在市场份额已经是第一了",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 122,
+      "retweets": 9,
+      "replies": 88,
+      "quotes": 6,
+      "views": 107767,
+      "bookmarks": 10
+    },
+    "createdAt": "Sun Aug 16 08:44:19 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2088909709847973989",
+    "createdAtISO": "2026-08-16T08:44:19+00:00",
+    "createdAtLocal": "2026-08-16 16:44"
+  },
+  {
+    "id": "2088892240492216348",
+    "text": "keep going",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 138,
+      "retweets": 16,
+      "replies": 49,
+      "quotes": 5,
+      "views": 112139,
+      "bookmarks": 1
+    },
+    "createdAt": "Sun Aug 16 07:34:54 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2088892240492216348",
+    "createdAtISO": "2026-08-16T07:34:54+00:00",
+    "createdAtLocal": "2026-08-16 15:34"
+  },
+  {
     "id": "2088722337709654105",
     "text": "不管火币团队做得好不好，我们对于永续美股这个赛道是高度看好的，也会后续倾斜资源认真做好，如果团队做不好就换团队，但是平台肯定是得到我绝对支持的，用户不用担心任何。",
     "author": {
