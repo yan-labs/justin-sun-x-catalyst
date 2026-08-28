@@ -1,5 +1,169 @@
 [
   {
+    "id": "2093122305400729897",
+    "text": "@TheBonnieChang @Bitcoinconfasia @trondao Great crowd, great conversation. Thanks @TheBonnieChang",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 18,
+      "retweets": 0,
+      "replies": 18,
+      "quotes": 0,
+      "views": 7611,
+      "bookmarks": 0
+    },
+    "createdAt": "Thu Aug 27 23:43:40 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2092940396200603653",
+    "inReplyToUserId": "1468411303337562112",
+    "conversationId": "2092940396200603653",
+    "createdAtISO": "2026-08-27T23:43:40+00:00",
+    "createdAtLocal": "2026-08-28 07:43"
+  },
+  {
+    "id": "2093043346218405912",
+    "text": "Great energy, great conversations at Bitcoin Asia.  🐋\n\nThank you to everyone who came out!",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 376,
+      "retweets": 18,
+      "replies": 132,
+      "quotes": 5,
+      "views": 386335,
+      "bookmarks": 18
+    },
+    "createdAt": "Thu Aug 27 18:29:55 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2093043346218405912",
+    "createdAtISO": "2026-08-27T18:29:55+00:00",
+    "createdAtLocal": "2026-08-28 02:29"
+  },
+  {
+    "id": "2092939209653076413",
+    "text": "Bitcoin is becoming a global macro asset. Stablecoins are becoming part of everyday global finance.\n\nTRON is helping build the infrastructure for digital dollars to move globally.\n\nGreat discussion at @Bitcoinconfasia. 🇭🇰 https://t.co/Fk5y01R2Ye",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 431,
+      "retweets": 46,
+      "replies": 188,
+      "quotes": 19,
+      "views": 762764,
+      "bookmarks": 20
+    },
+    "createdAt": "Thu Aug 27 11:36:07 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuafQubYAA2PX7.jpg",
+        "width": 1672,
+        "height": 941
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2092939209653076413",
+    "createdAtISO": "2026-08-27T11:36:07+00:00",
+    "createdAtLocal": "2026-08-27 19:36"
+  },
+  {
+    "id": "2092932777612390850",
+    "text": "https://t.co/nLMTwWr67Z",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 36624,
+      "retweets": 4314,
+      "replies": 7133,
+      "quotes": 4233,
+      "views": 19609891,
+      "bookmarks": 14716
+    },
+    "createdAt": "Thu Aug 27 11:10:33 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zxx",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2092932777612390850",
+    "createdAtISO": "2026-08-27T11:10:33+00:00",
+    "createdAtLocal": "2026-08-27 19:10"
+  },
+  {
+    "id": "2092850958284030296",
+    "text": "Tune in to the livestream at 3:30 PM HKT for my fireside chat on “The Globalization of Bitcoin Capital” at @Bitcoinconfasia. \n\nSee you soon!",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 132,
+      "retweets": 17,
+      "replies": 40,
+      "quotes": 15,
+      "views": 443702,
+      "bookmarks": 5
+    },
+    "createdAt": "Thu Aug 27 05:45:26 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2092850958284030296",
+    "createdAtISO": "2026-08-27T05:45:26+00:00",
+    "createdAtLocal": "2026-08-27 13:45"
+  },
+  {
     "id": "2092682614490710206",
     "text": "RT @mert: Tron's moat amongst people not in crypto or in america must be studied \n\nthe craziest shit I've ever seen\n\nno matter who I pay --…",
     "author": {
