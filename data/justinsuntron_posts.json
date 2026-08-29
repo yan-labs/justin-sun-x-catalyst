@@ -1,5 +1,107 @@
 [
   {
+    "id": "2093501732399849904",
+    "text": "十九年，从一张模糊的照片，到一盏熄灭的灯。这篇东西是写给我自己的，也写给二零零七年那些和我一样，还在宿舍里住的人。\n\n有些事不写出来，它就一直在。写出来，也许就不在了。",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 74,
+      "retweets": 3,
+      "replies": 99,
+      "quotes": 7,
+      "views": 20679,
+      "bookmarks": 5
+    },
+    "createdAt": "Sat Aug 29 00:51:23 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": true,
+    "isReply": false,
+    "conversationId": "2093501732399849904",
+    "createdAtISO": "2026-08-29T00:51:23+00:00",
+    "createdAtLocal": "2026-08-29 08:51"
+  },
+  {
+    "id": "2093481562490941793",
+    "text": "@cz_binance 谢谢CZ，说得对。互相尊重，妥善解决，剩下的交给法院。我不再多说了。🙏🙏🙏",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": true
+    },
+    "metrics": {
+      "likes": 324,
+      "retweets": 9,
+      "replies": 233,
+      "quotes": 8,
+      "views": 52842,
+      "bookmarks": 11
+    },
+    "createdAt": "Fri Aug 28 23:31:14 +0000 2026",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "score": null,
+    "isQuote": false,
+    "isReply": true,
+    "inReplyToTweetId": "2093385916153000256",
+    "inReplyToUserId": "902926941413453824",
+    "conversationId": "2093385916153000256",
+    "createdAtISO": "2026-08-28T23:31:14+00:00",
+    "createdAtLocal": "2026-08-29 07:31"
+  },
+  {
+    "id": "2093222851591770330",
+    "text": "I first learned about Bitcoin around 2012.\n\nBack then, it was a social experiment. Today, Bitcoin is becoming a global macro asset and stablecoins are becoming global financial infrastructure.\n\nThat journey is a big part of why I built TRON. 🔻 https://t.co/NZWXGwInp0",
+    "author": {
+      "id": "902839045356744704",
+      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "screenName": "justinsuntron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+      "verified": true
+    },
+    "metrics": {
+      "likes": 554,
+      "retweets": 32,
+      "replies": 411,
+      "quotes": 29,
+      "views": 461909,
+      "bookmarks": 35
+    },
+    "createdAt": "Fri Aug 28 06:23:12 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyesb_bYAAlez-.jpg",
+        "width": 1608,
+        "height": 1106
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "isQuote": false,
+    "isReply": false,
+    "conversationId": "2093222851591770330",
+    "createdAtISO": "2026-08-28T06:23:12+00:00",
+    "createdAtLocal": "2026-08-28 14:23"
+  },
+  {
     "id": "2093122305400729897",
     "text": "@TheBonnieChang @Bitcoinconfasia @trondao Great crowd, great conversation. Thanks @TheBonnieChang",
     "author": {
