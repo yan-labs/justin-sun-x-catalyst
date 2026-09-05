@@ -9,19 +9,22 @@ and updating calibration without rewriting history.
 
 1. Refresh the skill repository or workspace first so the latest ledger and
    calibration are loaded.
-2. Run `python3 update.py` from the repo root when `xreach` is available, then
-   inspect latest `@justinsuntron` posts through the refreshed archive, X, an
-   authenticated browser, or a trusted X-to-markdown workflow.
-3. Keep `data/justinsuntron_posts.json`, `data/justinsuntron_posts.csv`, and
+2. Run `python3 update.py` from the repo root. It tries `xreach`, then uses
+   the public `x.com/justinsuntron` profile plus Jina status pages when the
+   connector cannot authenticate. This fallback is public-only and must not
+   read or persist browser cookies or login state.
+3. Inspect latest `@justinsuntron` posts through the refreshed archive or the
+   public permalink and timestamp returned by the fallback.
+4. Keep `data/justinsuntron_posts.json`, `data/justinsuntron_posts.csv`, and
    `data/ticker_stats.txt` in sync when new posts are fetched.
-4. Record only posts with observable timestamp and permalink. If X is blocked,
+5. Record only posts with observable timestamp and permalink. If X is blocked,
    use credible news only when it quotes the post and provides enough context.
-5. Dedupe against `track-record.md` by post ID or permalink.
-6. Classify market-relevant posts with `methodology.md`. Skip ordinary personal
+6. Dedupe against `track-record.md` by post ID or permalink.
+7. Classify market-relevant posts with `methodology.md`. Skip ordinary personal
    updates, generic greetings, and unverified reposts.
-7. Append a prediction row above `TIMER_LEDGER_START` for each confirmed signal.
-8. Score matured rows after one trading day and one week.
-9. Update calibration takeaways only when the running evidence changes the base
+8. Append a prediction row above `TIMER_LEDGER_START` for each confirmed signal.
+9. Score matured rows after one trading day and one week.
+10. Update calibration takeaways only when the running evidence changes the base
    rate for a pattern.
 
 ## Freshness and access rules

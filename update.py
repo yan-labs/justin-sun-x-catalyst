@@ -14,12 +14,16 @@ from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
+from scripts.public_x_profile import fetch_public_posts
+
 USER = "justinsuntron"
 DISPLAY_NAME = "Justin Sun"
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 ARCH = os.path.join(DATA, "justinsuntron_posts.json")
 LOCAL_TZ = timezone(timedelta(hours=8))
+XREACH_AUTH_FAILED = False
+PUBLIC_FALLBACK_DIAGNOSTIC = None
 
 
 def parse_time(post):
@@ -47,6 +51,7 @@ def sort_key(post):
 
 
 def xreach_json(args, timeout=180):
+    global XREACH_AUTH_FAILED
     try:
         proc = subprocess.run(
             ["xreach", *args, "--json"],
@@ -55,7 +60,10 @@ def xreach_json(args, timeout=180):
             timeout=timeout,
         )
         if proc.returncode != 0:
-            print(f"PULL_ERROR {' '.join(args)}: {(proc.stderr or proc.stdout).strip()}")
+            detail = (proc.stderr or proc.stdout).strip()
+            if "Could not authenticate you" in detail or "not_authenticated" in detail:
+                XREACH_AUTH_FAILED = True
+            print(f"PULL_ERROR {' '.join(args)}: {detail}")
             return []
         data = json.loads(proc.stdout)
     except Exception as exc:
@@ -105,8 +113,9 @@ def normalize_xreach(post):
 
 
 def pull(n=100, since=None):
+    global PUBLIC_FALLBACK_DIAGNOSTIC
     raw = xreach_json(["tweets", f"@{USER}", "-n", str(n)])
-    if since:
+    if since and not XREACH_AUTH_FAILED:
         raw.extend(
             xreach_json(
                 [
@@ -123,6 +132,20 @@ def pull(n=100, since=None):
                 timeout=240,
             )
         )
+    if not raw or XREACH_AUTH_FAILED:
+        try:
+            public_rows, PUBLIC_FALLBACK_DIAGNOSTIC = fetch_public_posts(
+                USER, "902839045356744704", DISPLAY_NAME, limit=12
+            )
+            print(
+                "FALLBACK_SOURCE=x_public_profile+jina_status "
+                f"status_count={len(public_rows)} "
+                f"latest_id={PUBLIC_FALLBACK_DIAGNOSTIC.get('latest_id', '')} "
+                f"latest_time={PUBLIC_FALLBACK_DIAGNOSTIC.get('latest_time', '')}"
+            )
+            raw.extend(public_rows)
+        except Exception as exc:
+            print(f"PULL_ERROR public X fallback: {exc}")
     rows = []
     seen = set()
     for post in raw:

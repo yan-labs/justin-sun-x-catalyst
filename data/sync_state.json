@@ -3,8 +3,18 @@
   "target_user_id": "902839045356744704",
   "repo": "yan-labs/justin-sun-x-catalyst",
   "skill_dir": "justin-sun-x-catalyst",
-  "last_tweet_id": "2088987164063498596",
-  "last_update_time": "2026-08-17T01:01:27Z",
-  "post_count_in_archive": 383,
+  "last_tweet_id": "2095978808444887372",
+  "last_update_time": "2026-09-04T20:54:23Z",
+  "post_count_in_archive": 560,
+  "source_health": {
+    "status": "available_fallback",
+    "direct_status": "stale_unverified",
+    "verification_source": "x_public_profile+jina_status",
+    "freshness": "no_new_posts",
+    "latest_returned_id": "2095978808444887372",
+    "latest_returned_time": "2026-09-04T20:54:23Z",
+    "checked_time": "2026-09-05T05:07:00Z",
+    "next_action": "Retry xreach; keep the public x.com profile plus Jina status fallback and do not use browser login state"
+  },
   "note": "Managed by Codex heartbeat automation. Do not edit manually."
 }

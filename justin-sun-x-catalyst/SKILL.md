@@ -28,10 +28,13 @@ local archive is only useful after it has been updated.
    `python3 update.py` from the repo root when maintaining the archive.
 2. Inspect the latest posts from `https://x.com/justinsuntron` or the refreshed
    `data/justinsuntron_posts.json` archive.
-3. Prefer `xreach`, an authenticated browser, or an installed X-to-markdown
-   workflow when X blocks unauthenticated access.
-4. If browser access fails, try public search for `from:justinsuntron` plus the
-   topic/ticker, then verify any quoted post against the X permalink.
+3. Prefer `xreach` when its session is healthy. If it cannot authenticate,
+   `update.py` uses the public `x.com/justinsuntron` profile to discover
+   status ids and Jina public status pages to read timestamps and excerpts.
+   This fallback never reads browser cookies or login state.
+4. If the public fallback cannot establish a timestamp and permalink, try public
+   search for `from:justinsuntron` plus the topic/ticker, then verify any
+   quoted post against the X permalink.
 5. If fresh posts cannot be verified, say so plainly and analyze only the pasted
    post, screenshot, or user-provided link.
 6. Never call a post "latest" unless the timestamp and permalink were observed

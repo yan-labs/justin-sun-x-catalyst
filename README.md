@@ -25,7 +25,7 @@ The repo is designed as a small, auditable research artifact:
 - an append-only live ledger for predictions and later outcome scoring;
 - a ready-to-install agent skill.
 
-Current archive: **148 public posts** through **2026-07-09 19:43 UTC**.
+Current archive: **560 public posts** through **2026-09-04 20:54 UTC**.
 
 > Not financial advice. Decision-support only. This skill never trades and never
 > places, amends, sizes, or cancels orders. Justin-linked assets can be highly
@@ -43,7 +43,7 @@ Current archive: **148 public posts** through **2026-07-09 19:43 UTC**.
 | `data/justinsuntron_posts.json` | Incremental public X archive, deduped by post id |
 | `data/justinsuntron_posts.csv` | Spreadsheet-friendly copy of the archive |
 | `data/ticker_stats.txt` | `$ticker` mention counts from the archive |
-| `update.py` | Pulls latest posts via `xreach`, dedupes, and refreshes derived data |
+| `update.py` | Pulls latest posts via `xreach`, then public profile/Jina status fallback, dedupes, and refreshes derived data |
 
 ## Use it as a skill
 
@@ -73,8 +73,11 @@ python3 update.py
 ```
 
 The script uses the local `xreach` command when authenticated access is
-available. It updates the JSON archive, CSV export, and ticker stats, then prints
-`NEW=<n>`. Git commits are intentionally left to the caller or scheduler.
+available. If that session cannot authenticate, it discovers public status ids
+from `https://x.com/justinsuntron` and reads public Jina status pages instead;
+it never reads browser cookies or login state. It updates the JSON archive, CSV
+export, and ticker stats, then prints `NEW=<n>`. Git commits are intentionally
+left to the caller or scheduler.
 
 Scheduled maintenance should:
 
