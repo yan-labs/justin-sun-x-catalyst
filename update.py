@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 """Incremental archive updater for @justinsuntron public X posts.
 
-Requires xreach authenticated via Agent Reach cookies/browser profile.
+Uses xreach when available, with a public x.com profile fallback that does not
+require browser cookies or login state.
 Run from the repo root: `python3 update.py`. Prints a final `NEW=<n>` line.
+Run `python3 update.py --repair-public-profile` once after a public-profile
+parser upgrade to replace rows captured by an older fallback parser.
 Does not touch git; the scheduler decides whether to commit and push.
 """
 import csv
@@ -10,6 +13,7 @@ import json
 import os
 import re
 import subprocess
+import sys
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -21,6 +25,7 @@ DISPLAY_NAME = "Justin Sun"
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 ARCH = os.path.join(DATA, "justinsuntron_posts.json")
+SYNC_STATE = os.path.join(DATA, "sync_state.json")
 LOCAL_TZ = timezone(timedelta(hours=8))
 XREACH_AUTH_FAILED = False
 PUBLIC_FALLBACK_DIAGNOSTIC = None
@@ -137,8 +142,11 @@ def pull(n=100, since=None):
             public_rows, PUBLIC_FALLBACK_DIAGNOSTIC = fetch_public_posts(
                 USER, "902839045356744704", DISPLAY_NAME, limit=12
             )
+            fallback_source = (PUBLIC_FALLBACK_DIAGNOSTIC or {}).get(
+                "source", "x_public_profile+jina_status"
+            )
             print(
-                "FALLBACK_SOURCE=x_public_profile+jina_status "
+                f"FALLBACK_SOURCE={fallback_source} "
                 f"status_count={len(public_rows)} "
                 f"latest_id={PUBLIC_FALLBACK_DIAGNOSTIC.get('latest_id', '')} "
                 f"latest_time={PUBLIC_FALLBACK_DIAGNOSTIC.get('latest_time', '')}"
@@ -242,6 +250,8 @@ def write_ticker_stats(rows):
 
 
 def main():
+    repair_public_profile = "--repair-public-profile" in sys.argv[1:]
+    sync_state = json.load(open(SYNC_STATE)) if os.path.exists(SYNC_STATE) else {}
     os.makedirs(DATA, exist_ok=True)
     if os.path.exists(ARCH):
         with open(ARCH) as archive:
@@ -253,11 +263,29 @@ def main():
     have = {post["id"] for post in archive if post.get("id")}
     newest = max((parse_time(post) for post in archive if parse_time(post)), default=None)
     since = newest.astimezone(timezone.utc).date().isoformat() if newest else None
-    new_posts = [ensure_times(post) for post in pull(since=since) if post["id"] not in have]
+    pulled = [ensure_times(post) for post in pull(since=since)]
+    new_posts = [post for post in pulled if post["id"] not in have]
     new_posts.sort(key=sort_key)
-    if new_posts or normalized:
+    public_profile_repairs = []
+    repair_boundary = sync_state.get("last_update_time")
+    if repair_public_profile and (PUBLIC_FALLBACK_DIAGNOSTIC or {}).get("source") == "x_public_profile_html":
+        public_profile_repairs = [
+            post for post in pulled
+            if post["id"] in have
+            and (
+                not repair_boundary
+                or (
+                    parse_time(post)
+                    and parse_time(post).astimezone(timezone.utc)
+                    > datetime.fromisoformat(repair_boundary.replace("Z", "+00:00"))
+                )
+            )
+        ]
+    if new_posts or public_profile_repairs or normalized:
         merged = {post["id"]: post for post in archive if post.get("id")}
         for post in new_posts:
+            merged[post["id"]] = post
+        for post in public_profile_repairs:
             merged[post["id"]] = post
         rows = sorted(merged.values(), key=sort_key, reverse=True)
         with open(ARCH, "w") as archive:
@@ -269,6 +297,8 @@ def main():
             print(f"  + {post.get('createdAtISO', '')[:16]} {post['id']} {preview}")
         if new_posts:
             print(f"TOTAL={len(rows)} NEWEST={rows[0].get('createdAtISO', '')}")
+        if public_profile_repairs:
+            print(f"PUBLIC_PROFILE_REPAIRED={len(public_profile_repairs)}")
     print(f"NEW={len(new_posts)}")
 
 

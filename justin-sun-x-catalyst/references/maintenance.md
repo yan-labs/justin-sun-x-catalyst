@@ -9,10 +9,11 @@ and updating calibration without rewriting history.
 
 1. Refresh the skill repository or workspace first so the latest ledger and
    calibration are loaded.
-2. Run `python3 update.py` from the repo root. It tries `xreach`, then uses
-   the public `x.com/justinsuntron` profile plus Jina status pages when the
-   connector cannot authenticate. This fallback is public-only and must not
-   read or persist browser cookies or login state.
+2. Run `python3 update.py` from the repo root. It tries `xreach`, then parses
+   exact ids, text, and `created_at_ms` from the public
+   `x.com/justinsuntron` profile HTML, using Jina status pages only for profile
+   gaps. This fallback is public-only and must not read or persist browser
+   cookies or login state.
 3. Inspect latest `@justinsuntron` posts through the refreshed archive or the
    public permalink and timestamp returned by the fallback.
 4. Keep `data/justinsuntron_posts.json`, `data/justinsuntron_posts.csv`, and

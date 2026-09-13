@@ -3,18 +3,19 @@
   "target_user_id": "902839045356744704",
   "repo": "yan-labs/justin-sun-x-catalyst",
   "skill_dir": "justin-sun-x-catalyst",
-  "last_tweet_id": "2097776776596672538",
-  "last_update_time": "2026-09-09T19:58:53Z",
-  "post_count_in_archive": 568,
+  "last_tweet_id": "2098426864364892514",
+  "last_update_time": "2026-09-11T15:02:06Z",
+  "post_count_in_archive": 572,
   "source_health": {
-    "status": "stale_unverified",
+    "status": "available_fallback",
     "direct_status": "stale_unverified",
-    "verification_source": "x_public_profile+jina_status",
-    "freshness": "unverified",
-    "latest_returned_id": "2097776776596672538",
-    "latest_returned_time": "2026-09-09T19:58:53Z",
-    "checked_time": "2026-09-12T01:03:31Z",
-    "next_action": "xreach failed with GraphQL authentication error; the public x.com profile plus Jina status fallback returned 0 verified records, so no new post was verified and the cursor remains unchanged; retry xreach and the public profile plus Jina status fallback without browser login state"
+    "verification_source": "x_public_profile_html",
+    "freshness": "new_posts",
+    "latest_returned_id": "2098426864364892514",
+    "latest_returned_time": "2026-09-11T15:02:06Z",
+    "profile_parsed_count": 5,
+    "checked_time": "2026-09-13T01:38:36Z",
+    "next_action": "xreach still fails with GraphQL authentication error; public x.com profile HTML returned 5 exact rows with ids, text, and created_at_ms, including 4 rows newer than the saved cursor; cursor advanced without browser cookies or login state. Retry xreach and the public profile HTML next tick, and use Jina only for profile gaps."
   },
   "note": "Managed by Codex heartbeat automation. Do not edit manually."
 }

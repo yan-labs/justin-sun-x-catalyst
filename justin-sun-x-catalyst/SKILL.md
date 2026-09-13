@@ -29,9 +29,10 @@ local archive is only useful after it has been updated.
 2. Inspect the latest posts from `https://x.com/justinsuntron` or the refreshed
    `data/justinsuntron_posts.json` archive.
 3. Prefer `xreach` when its session is healthy. If it cannot authenticate,
-   `update.py` uses the public `x.com/justinsuntron` profile to discover
-   status ids and Jina public status pages to read timestamps and excerpts.
-   This fallback never reads browser cookies or login state.
+   `update.py` parses exact status ids, text, and `created_at_ms` from the
+   public `x.com/justinsuntron` profile HTML, then uses Jina public status
+   pages only for profile rows it cannot parse. This fallback never reads
+   browser cookies or login state.
 4. If the public fallback cannot establish a timestamp and permalink, try public
    search for `from:justinsuntron` plus the topic/ticker, then verify any
    quoted post against the X permalink.

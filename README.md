@@ -25,7 +25,7 @@ The repo is designed as a small, auditable research artifact:
 - an append-only live ledger for predictions and later outcome scoring;
 - a ready-to-install agent skill.
 
-Current archive: **568 public posts** through **2026-09-09 19:58 UTC**.
+Current archive: **572 public posts** through **2026-09-11 15:02 UTC**.
 
 > Not financial advice. Decision-support only. This skill never trades and never
 > places, amends, sizes, or cancels orders. Justin-linked assets can be highly
@@ -43,7 +43,7 @@ Current archive: **568 public posts** through **2026-09-09 19:58 UTC**.
 | `data/justinsuntron_posts.json` | Incremental public X archive, deduped by post id |
 | `data/justinsuntron_posts.csv` | Spreadsheet-friendly copy of the archive |
 | `data/ticker_stats.txt` | `$ticker` mention counts from the archive |
-| `update.py` | Pulls latest posts via `xreach`, then public profile/Jina status fallback, dedupes, and refreshes derived data |
+| `update.py` | Pulls latest posts via `xreach`, then parses the public x.com profile and uses Jina only for profile gaps, dedupes, and refreshes derived data |
 
 ## Use it as a skill
 
@@ -72,10 +72,11 @@ Run the incremental archive update from the repo root:
 python3 update.py
 ```
 
-The script uses the local `xreach` command when authenticated access is
-available. If that session cannot authenticate, it discovers public status ids
-from `https://x.com/justinsuntron` and reads public Jina status pages instead;
-it never reads browser cookies or login state. It updates the JSON archive, CSV
+The script uses the local `xreach` command when its session is healthy. If that
+session cannot authenticate, it discovers exact status ids, text, and
+`created_at_ms` from the public `https://x.com/justinsuntron` profile HTML and
+uses public Jina status pages only for rows the profile cannot parse; it never
+reads browser cookies or login state. It updates the JSON archive, CSV
 export, and ticker stats, then prints `NEW=<n>`. Git commits are intentionally
 left to the caller or scheduler.
 

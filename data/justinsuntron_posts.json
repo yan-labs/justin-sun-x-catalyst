@@ -1,5 +1,149 @@
 [
   {
+    "id": "2098426864364892514",
+    "text": "#TRXS on @Vanguard_Group.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 142,
+      "retweets": 23,
+      "replies": 54,
+      "quotes": null,
+      "views": null,
+      "bookmarks": 4
+    },
+    "createdAt": "Fri Sep 11 15:02:06 +0000 2026",
+    "createdAtISO": "2026-09-11T15:02:06Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HR4gLFkbIAArnpH.jpg"
+      }
+    ],
+    "urls": [
+      "https://canaryetfs.com/trxs/"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "und",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2098426864364892514",
+    "createdAtLocal": "2026-09-11 23:02"
+  },
+  {
+    "id": "2098396213317967926",
+    "text": "USDe and sUSDe are now on TRON. \n\nMore options for builders across the ecosystem.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 256,
+      "retweets": 44,
+      "replies": 44,
+      "quotes": null,
+      "views": null,
+      "bookmarks": 3
+    },
+    "createdAt": "Fri Sep 11 13:00:18 +0000 2026",
+    "createdAtISO": "2026-09-11T13:00:18Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HR70NguaIAAvSTu.jpg"
+      }
+    ],
+    "urls": [
+      "https://cointelegraph.com/press-releases/ethena-brings-usde-and-susde-to-tron-expanding-digital-dollar-access-across-its-stablecoin-ecosystem"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2098396213317967926",
+    "createdAtLocal": "2026-09-11 21:00"
+  },
+  {
+    "id": "2098385299105833327",
+    "text": "USDe on TRON!",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 306,
+      "retweets": 37,
+      "replies": 41,
+      "quotes": null,
+      "views": null,
+      "bookmarks": 6
+    },
+    "createdAt": "Fri Sep 11 12:16:56 +0000 2026",
+    "createdAtISO": "2026-09-11T12:16:56Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2098381567035068416/img/KbBTTjyhD4Qf2_hp.jpg"
+      }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "es",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2098385299105833327",
+    "createdAtLocal": "2026-09-11 20:16"
+  },
+  {
+    "id": "2098284077619269750",
+    "text": "2.5 million users now",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 154,
+      "retweets": 18,
+      "replies": 57,
+      "quotes": null,
+      "views": null,
+      "bookmarks": 5
+    },
+    "createdAt": "Fri Sep 11 05:34:42 +0000 2026",
+    "createdAtISO": "2026-09-11T05:34:42Z",
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HR5pok1aUAAWKOT.jpg"
+      }
+    ],
+    "urls": [
+      "https://B.AI",
+      "http://B.AI",
+      "http://b.ai"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2098284077619269750",
+    "createdAtLocal": "2026-09-11 13:34"
+  },
+  {
     "id": "2097776776596672538",
     "text": "The Canary Staked TRX ETF is now live on @RobinhoodApp. Keep building 💪",
     "author": {
