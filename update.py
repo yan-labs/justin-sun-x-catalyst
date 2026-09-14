@@ -249,6 +249,49 @@ def write_ticker_stats(rows):
             out.write(f"{ticker:8} {count:6}   {first[ticker]}  {last[ticker]}\n")
 
 
+def merge_public_profile_row(previous, current):
+    """Keep reliable older optional fields when the public page omits them."""
+    merged = dict(current)
+    for key, value in previous.items():
+        if key not in merged or (merged[key] in (None, "", []) and value not in (None, "", [])):
+            merged[key] = value
+    for container in ("author", "metrics"):
+        old_values = previous.get(container)
+        new_values = merged.get(container)
+        if isinstance(old_values, dict) and isinstance(new_values, dict):
+            for key, value in old_values.items():
+                if new_values.get(key) in (None, "", []) and value not in (None, "", []):
+                    new_values[key] = value
+    old_media = previous.get("media")
+    new_media = merged.get("media")
+    if isinstance(old_media, list) and isinstance(new_media, list) and old_media and new_media:
+        old_by_url = {
+            item.get("url"): item
+            for item in old_media
+            if isinstance(item, dict) and item.get("url")
+        }
+        combined = []
+        seen_urls = set()
+        for item in new_media:
+            if not isinstance(item, dict):
+                combined.append(item)
+                continue
+            url = item.get("url")
+            enriched = dict(old_by_url.get(url, {}))
+            enriched.update(item)
+            combined.append(enriched)
+            if url:
+                seen_urls.add(url)
+        combined.extend(
+            item for item in old_media
+            if isinstance(item, dict)
+            and item.get("url")
+            and item.get("url") not in seen_urls
+        )
+        merged["media"] = combined
+    return merged
+
+
 def main():
     repair_public_profile = "--repair-public-profile" in sys.argv[1:]
     sync_state = json.load(open(SYNC_STATE)) if os.path.exists(SYNC_STATE) else {}
@@ -261,32 +304,24 @@ def main():
     archive = [ensure_times(post) for post in raw_archive]
     normalized = archive != raw_archive
     have = {post["id"] for post in archive if post.get("id")}
+    archive_by_id = {post["id"]: post for post in archive if post.get("id")}
     newest = max((parse_time(post) for post in archive if parse_time(post)), default=None)
     since = newest.astimezone(timezone.utc).date().isoformat() if newest else None
     pulled = [ensure_times(post) for post in pull(since=since)]
     new_posts = [post for post in pulled if post["id"] not in have]
     new_posts.sort(key=sort_key)
     public_profile_repairs = []
-    repair_boundary = sync_state.get("last_update_time")
     if repair_public_profile and (PUBLIC_FALLBACK_DIAGNOSTIC or {}).get("source") == "x_public_profile_html":
         public_profile_repairs = [
             post for post in pulled
             if post["id"] in have
-            and (
-                not repair_boundary
-                or (
-                    parse_time(post)
-                    and parse_time(post).astimezone(timezone.utc)
-                    > datetime.fromisoformat(repair_boundary.replace("Z", "+00:00"))
-                )
-            )
         ]
     if new_posts or public_profile_repairs or normalized:
         merged = {post["id"]: post for post in archive if post.get("id")}
         for post in new_posts:
             merged[post["id"]] = post
         for post in public_profile_repairs:
-            merged[post["id"]] = post
+            merged[post["id"]] = merge_public_profile_row(archive_by_id[post["id"]], post)
         rows = sorted(merged.values(), key=sort_key, reverse=True)
         with open(ARCH, "w") as archive:
             json.dump(rows, archive, ensure_ascii=False, indent=2)

@@ -14,6 +14,9 @@ and updating calibration without rewriting history.
    `x.com/justinsuntron` profile HTML, using Jina status pages only for profile
    gaps. This fallback is public-only and must not read or persist browser
    cookies or login state.
+   The profile parser follows the status-specific RSC `Tweet` object and its
+   `user_results` reference, and prefers the linked full `NoteTweet` text;
+   never take the first `full_text` found in a shared response window.
 3. Inspect latest `@justinsuntron` posts through the refreshed archive or the
    public permalink and timestamp returned by the fallback.
 4. Keep `data/justinsuntron_posts.json`, `data/justinsuntron_posts.csv`, and

@@ -14,7 +14,7 @@
       "retweets": 16,
       "replies": 67,
       "quotes": null,
-      "views": null,
+      "views": 128053,
       "bookmarks": 3
     },
     "createdAt": "Sun Sep 13 03:59:54 +0000 2026",
@@ -26,7 +26,7 @@
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "en",
-    "isQuote": false,
+    "isQuote": true,
     "isReply": false,
     "sourceUrl": "https://x.com/justinsuntron/status/2098984994681356449",
     "createdAtLocal": "2026-09-13 11:59"
@@ -42,11 +42,11 @@
       "verified": null
     },
     "metrics": {
-      "likes": 142,
-      "retweets": 23,
-      "replies": 54,
+      "likes": 162,
+      "retweets": 26,
+      "replies": 58,
       "quotes": null,
-      "views": null,
+      "views": 130443,
       "bookmarks": 4
     },
     "createdAt": "Fri Sep 11 15:02:06 +0000 2026",
@@ -62,7 +62,7 @@
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "und",
-    "isQuote": false,
+    "isQuote": true,
     "isReply": false,
     "sourceUrl": "https://x.com/justinsuntron/status/2098426864364892514",
     "createdAtLocal": "2026-09-11 23:02"
@@ -78,12 +78,12 @@
       "verified": null
     },
     "metrics": {
-      "likes": 256,
-      "retweets": 44,
-      "replies": 44,
+      "likes": 275,
+      "retweets": 47,
+      "replies": 49,
       "quotes": null,
-      "views": null,
-      "bookmarks": 3
+      "views": 151715,
+      "bookmarks": 4
     },
     "createdAt": "Fri Sep 11 13:00:18 +0000 2026",
     "createdAtISO": "2026-09-11T13:00:18Z",
@@ -98,7 +98,7 @@
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "en",
-    "isQuote": false,
+    "isQuote": true,
     "isReply": false,
     "sourceUrl": "https://x.com/justinsuntron/status/2098396213317967926",
     "createdAtLocal": "2026-09-11 21:00"
@@ -114,11 +114,11 @@
       "verified": null
     },
     "metrics": {
-      "likes": 306,
-      "retweets": 37,
-      "replies": 41,
+      "likes": 318,
+      "retweets": 40,
+      "replies": 45,
       "quotes": null,
-      "views": null,
+      "views": 149955,
       "bookmarks": 6
     },
     "createdAt": "Fri Sep 11 12:16:56 +0000 2026",
@@ -132,7 +132,7 @@
     "isRetweet": false,
     "retweetedBy": null,
     "lang": "es",
-    "isQuote": false,
+    "isQuote": true,
     "isReply": false,
     "sourceUrl": "https://x.com/justinsuntron/status/2098385299105833327",
     "createdAtLocal": "2026-09-11 20:16"
@@ -18100,25 +18100,21 @@
     "text": "From a visionary to a global force — honored to be featured on Forbes as Crypto’s Billionaire Barker. TRON’s journey continues, powering a global payment system with 300 million users and counting. Decentralization will prevail. https://t.co/m6FXcbrvMJ",
     "author": {
       "id": "902839045356744704",
-      "name": "H.E. Justin Sun 👨‍🚀 🌞",
+      "name": "Justin Sun",
       "screenName": "justinsuntron",
-      "verified": true
+      "profileImageUrl": null,
+      "verified": null
     },
     "metrics": {
-      "likes": 7159,
-      "retweets": 1362,
-      "replies": 4030,
-      "quotes": 359,
-      "views": 5196622,
-      "bookmarks": 483
+      "likes": 7924,
+      "retweets": 1539,
+      "replies": 4505,
+      "quotes": null,
+      "views": 7924404,
+      "bookmarks": 578
     },
     "createdAt": "Thu Mar 27 18:20:42 +0000 2025",
-    "createdAtISO": "2025-03-27T18:20:42+00:00",
-    "createdAtLocal": "2025-03-28 02:20",
-    "isRetweet": false,
-    "lang": "en",
-    "isQuote": false,
-    "isReply": false,
+    "createdAtISO": "2025-03-27T18:20:42Z",
     "media": [
       {
         "type": "photo",
@@ -18128,6 +18124,12 @@
       }
     ],
     "urls": [],
-    "quotedTweet": null
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/1905324113851547790",
+    "createdAtLocal": "2025-03-28 02:20"
   }
 ]
