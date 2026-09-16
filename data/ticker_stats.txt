@@ -1,9 +1,9 @@
-Total posts: 576
+Total posts: 580
 Distinct $tickers: 10
 
 ticker  mentions  first_seen  last_seen
+TRXS          5   2026-08-24  2026-09-15
 TRX           4   2026-07-02  2026-07-22
-TRXS          4   2026-08-24  2026-09-14
 JST           3   2026-07-17  2026-07-22
 HTX           2   2026-07-22  2026-08-12
 USDD          2   2026-06-15  2026-07-18
