@@ -25,7 +25,7 @@ The repo is designed as a small, auditable research artifact:
 - an append-only live ledger for predictions and later outcome scoring;
 - a ready-to-install agent skill.
 
-Current archive: **580 public posts** through **2026-09-15 11:17 UTC**.
+Current archive: **584 public posts** through **2026-09-16 20:25 UTC**.
 
 > Not financial advice. Decision-support only. This skill never trades and never
 > places, amends, sizes, or cancels orders. Justin-linked assets can be highly

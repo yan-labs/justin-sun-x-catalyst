@@ -1,5 +1,131 @@
 [
   {
+    "id": "2100320194103275946",
+    "text": "Introducing the #JustinSunPrize, a new academic bounty program rewarding breakthroughs in mathematics.\n\nContributors can solve eligible problems, formalize their results in Lean, and submit machine-verifiable proofs through the Prize’s open-source GitHub repository.\n\nWith five award tiers and a top prize of $1 million, the program is open to eligible contributors worldwide.\n\nSolve. Verify. Claim. \n\nLearn more: https://t.co/c7kN5YGZ17",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 73,
+      "retweets": 7,
+      "replies": 23,
+      "quotes": 5,
+      "views": 47898,
+      "bookmarks": 5
+    },
+    "createdAt": "Wed Sep 16 20:25:30 +0000 2026",
+    "createdAtISO": "2026-09-16T20:25:30Z",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2100320194103275946",
+    "createdAtLocal": "2026-09-17 04:25"
+  },
+  {
+    "id": "2100218494868758722",
+    "text": "Quod probatur, solvitur.\n\nWhat is proved, is solved.\n\nThe @JustinSunPrize begins.\nhttps://t.co/sCeOk8ztid",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 203,
+      "retweets": 20,
+      "replies": 86,
+      "quotes": 8,
+      "views": 85534,
+      "bookmarks": 6
+    },
+    "createdAt": "Wed Sep 16 13:41:24 +0000 2026",
+    "createdAtISO": "2026-09-16T13:41:24Z",
+    "media": [],
+    "urls": [
+      "https://www.theblock.co/news/sponsored/2026-09-16-justin-sun-establishes-the-justin-sun-prize-my-wealth-came-from-mathematics-and-will-return-to-mathematics-415271"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2100218494868758722",
+    "createdAtLocal": "2026-09-16 21:41"
+  },
+  {
+    "id": "2100186862421946443",
+    "text": "https://t.co/04lTcWf0ki",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 200,
+      "retweets": 32,
+      "replies": 64,
+      "quotes": 21,
+      "views": 147101,
+      "bookmarks": 14
+    },
+    "createdAt": "Wed Sep 16 11:35:42 +0000 2026",
+    "createdAtISO": "2026-09-16T11:35:42Z",
+    "media": [],
+    "urls": [
+      "https://x.com/i/article/2100123987930173440"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zxx",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2100186862421946443",
+    "createdAtLocal": "2026-09-16 19:35"
+  },
+  {
+    "id": "2100155232521228588",
+    "text": "https://t.co/wTMb1gbXpN",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 288,
+      "retweets": 28,
+      "replies": 108,
+      "quotes": 44,
+      "views": 227251,
+      "bookmarks": 56
+    },
+    "createdAt": "Wed Sep 16 09:30:01 +0000 2026",
+    "createdAtISO": "2026-09-16T09:30:01Z",
+    "media": [],
+    "urls": [
+      "https://x.com/i/article/2100114557968785408"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zxx",
+    "isQuote": false,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2100155232521228588",
+    "createdAtLocal": "2026-09-16 17:30"
+  },
+  {
     "id": "2099820002534928441",
     "text": "TRON @trondao is on @keeper_wallet",
     "author": {
