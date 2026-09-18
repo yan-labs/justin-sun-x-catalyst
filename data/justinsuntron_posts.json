@@ -1,5 +1,125 @@
 [
   {
+    "id": "2100542145400807740",
+    "text": "孙宇晨奖，都来参加吧！",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 127,
+      "retweets": 14,
+      "replies": 93,
+      "quotes": 3,
+      "views": 98025,
+      "bookmarks": 8
+    },
+    "createdAt": "Thu Sep 17 11:07:28 +0000 2026",
+    "createdAtISO": "2026-09-17T11:07:28Z",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2100542145400807740",
+    "createdAtLocal": "2026-09-17 19:07"
+  },
+  {
+    "id": "2100539165364588938",
+    "text": "先做到十万亿单日",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 100,
+      "retweets": 6,
+      "replies": 76,
+      "quotes": 3,
+      "views": 104165,
+      "bookmarks": 4
+    },
+    "createdAt": "Thu Sep 17 10:55:37 +0000 2026",
+    "createdAtISO": "2026-09-17T10:55:37Z",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "zh",
+    "isQuote": true,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2100539165364588938",
+    "createdAtLocal": "2026-09-17 18:55"
+  },
+  {
+    "id": "2100487837305192792",
+    "text": "The list of winners of the inaugural Justin Sun Awards has been announced.",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 177,
+      "retweets": 19,
+      "replies": 78,
+      "quotes": 11,
+      "views": 282553,
+      "bookmarks": 11
+    },
+    "createdAt": "Thu Sep 17 07:31:40 +0000 2026",
+    "createdAtISO": "2026-09-17T07:31:40Z",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2100487837305192792",
+    "createdAtLocal": "2026-09-17 15:31"
+  },
+  {
+    "id": "2100449901889167785",
+    "text": "The Justin Sun Prize is ready!",
+    "author": {
+      "id": "902839045356744704",
+      "name": "Justin Sun",
+      "screenName": "justinsuntron",
+      "profileImageUrl": null,
+      "verified": null
+    },
+    "metrics": {
+      "likes": 151,
+      "retweets": 11,
+      "replies": 55,
+      "quotes": 6,
+      "views": 117597,
+      "bookmarks": 3
+    },
+    "createdAt": "Thu Sep 17 05:00:55 +0000 2026",
+    "createdAtISO": "2026-09-17T05:00:55Z",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "isQuote": true,
+    "isReply": false,
+    "sourceUrl": "https://x.com/justinsuntron/status/2100449901889167785",
+    "createdAtLocal": "2026-09-17 13:00"
+  },
+  {
     "id": "2100320194103275946",
     "text": "Introducing the #JustinSunPrize, a new academic bounty program rewarding breakthroughs in mathematics.\n\nContributors can solve eligible problems, formalize their results in Lean, and submit machine-verifiable proofs through the Prize’s open-source GitHub repository.\n\nWith five award tiers and a top prize of $1 million, the program is open to eligible contributors worldwide.\n\nSolve. Verify. Claim. \n\nLearn more: https://t.co/c7kN5YGZ17",
     "author": {
